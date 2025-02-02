@@ -1,0 +1,526 @@
+region,country,item type,rep name,sales channel,order priority,order date,order ID,ship date,units sold,unit price,unit cost,total revenue,total cost,total profit
+North America,USA,Electronics,Eve,ONLINE,low,"Wednesday, January 8, 2020",1243,"Tuesday, February 25, 2020",18,85.15,31.89,1532.7,574.02,958.68
+North America,Canada ,Beverages,Alice,online,High,"Thursday, June 18, 2020",1818,"Tuesday, April 7, 2020",58,47.09,45.62,2731.22,2645.96,85.26
+North America,Usa,Cosmetics,Bob,ONLINE,low,"Monday, November 2, 2020",1831,"Tuesday, May 12, 2020",87,72.04,10.93,6267.48,950.91,5316.57
+Asia,India,Cosmetics,Eve,ONLINE,CRITICAL,"Sunday, October 25, 2020",1219,"Tuesday, December 1, 2020",81,67.33,45.43,5453.73,3679.83,1773.9
+,Canada ,Clothing,Charlie,online,low,"Tuesday, November 3, 2020",1961,"Friday, January 31, 2020",45,26.49,26.99,1192.05,1214.55,-22.5
+Asia,India,Beverages,Diana,online,High,"Sunday, January 12, 2020",1462,"Sunday, June 14, 2020",19,58.75,20.38,1116.25,387.22,729.03
+South America,Brazil,Beverages,Diana,ONLINE,low,"Friday, June 26, 2020",1159,"Monday, July 13, 2020",82,13.36,41.14,1095.52,3373.48,-2277.96
+Asia,India,Office Supplies,Alice,OFFLINE,CRITICAL,"Saturday, January 2, 2021",1673,"Sunday, May 24, 2020",55,56.28,30.57,3095.4,1681.35,
+Africa,Nigeria,Clothing,Diana,ONLINE,CRITICAL,"Monday, October 26, 2020",1665,"Monday, June 22, 2020",11,26.16,21.47,287.76,236.17,51.59
+North America,Usa,Clothing,Alice,ONLINE,Medium,"Thursday, December 10, 2020",1020,"Friday, March 13, 2020",29,39.09,27.14,1133.61,787.06,346.55
+,Brazil,Office Supplies,Diana,Offline,low,"Monday, July 27, 2020",1451,"Friday, October 30, 2020",23,82.01,29.13,1886.23,669.99,1216.24
+Asia,China,Clothing,Charlie,Offline,High,"Friday, October 30, 2020",1772,"Saturday, August 29, 2020",12,12.63,20.93,151.56,251.16,-99.6
+Asia,India,,Diana,ONLINE,low,"Tuesday, August 4, 2020",1434,"Friday, March 13, 2020",41,53.38,14.91,2188.58,611.31,1577.27
+Europe,Germany,Clothing,Eve,OFFLINE,High,"Tuesday, June 23, 2020",1520,"Thursday, October 29, 2020",55,20.59,44.16,1132.45,2428.8,-1296.35
+Asia,China,Beverages,Alice,OFFLINE,High,"Sunday, February 23, 2020",1561,"Wednesday, July 29, 2020",30,67.04,33.84,2011.2,1015.2,996
+,Kenya ,Cosmetics,Bob,ONLINE,CRITICAL,"Saturday, July 11, 2020",1880,"Wednesday, November 25, 2020",89,34.86,7.13,3102.54,634.57,2467.97
+Asia,India,Electronics,Alice,Offline,low,"Sunday, November 15, 2020",1458,"Friday, July 3, 2020",14,23.78,14.67,332.92,205.38,127.54
+Africa,Nigeria,Clothing,Charlie,online,low,"Tuesday, May 12, 2020",1844,"Saturday, February 1, 2020",57,25.43,27.91,1449.51,1590.87,-141.36
+South America,Argentina ,Cosmetics,Alice,online,low,"Saturday, January 18, 2020",1458,"Tuesday, July 21, 2020",72,99.68,36.62,7176.96,2636.64,4540.32
+South America,Brazil,Cosmetics,Eve,ONLINE,Medium,"Saturday, August 15, 2020",1640,"Wednesday, July 8, 2020",38,83.18,,3160.84,1747.62,1413.22
+North America,Canada ,Cosmetics,Eve,ONLINE,Medium,"Wednesday, September 9, 2020",1932,"Saturday, September 5, 2020",6,65.94,24.62,395.64,147.72,247.92
+Europe,France ,Clothing,Diana,Offline,low,"Tuesday, May 19, 2020",1876,"Saturday, January 4, 2020",41,14.64,47.89,600.24,1963.49,-1363.25
+,Brazil,Office Supplies,Bob,ONLINE,low,"Tuesday, May 19, 2020",1468,"Thursday, August 20, 2020",86,22.97,15.94,1975.42,1370.84,604.58
+South America,Argentina ,Office Supplies,Charlie,ONLINE,low,"Thursday, January 9, 2020",1704,"Sunday, January 5, 2020",63,78.61,36.22,4952.43,2281.86,2670.57
+South America,Brazil,Beverages,Alice,OFFLINE,Medium,"Friday, September 11, 2020",1105,"Saturday, April 18, 2020",19,53.28,33.19,1012.32,630.61,381.71
+Africa,Kenya ,Clothing,Alice,ONLINE,Medium,"Wednesday, July 22, 2020",1548,"Tuesday, July 28, 2020",91,55.49,5.83,5049.59,,4519.06
+South America,Brazil,Beverages,Bob,Offline,low,"Wednesday, July 8, 2020",1479,"Saturday, December 26, 2020",52,32.72,7.28,1701.44,378.56,1322.88
+South America,Argentina ,Beverages,Alice,ONLINE,Medium,"Saturday, May 2, 2020",1646,"Friday, June 19, 2020",72,54.94,38.03,3955.68,2738.16,1217.52
+South America,Brazil,Beverages,Alice,Offline,CRITICAL,"Tuesday, September 22, 2020",1270,"Thursday, January 30, 2020",24,63.31,21.02,1519.44,504.48,1014.96
+Europe,Germany,Beverages,Alice,online,Medium,"Thursday, March 12, 2020",1797,"Thursday, January 23, 2020",25,,29.9,1741,700,993.5
+Asia,China,Electronics,Diana,online,low,"Thursday, January 23, 2020",,"Thursday, April 30, 2020",52,87.26,30.85,4537.52,1604.2,2933.32
+South America,Argentina ,Cosmetics,Eve,online,low,"Tuesday, May 19, 2020",1871,"Thursday, July 2, 2020",27,26.59,45.64,717.93,1232.28,-514.35
+South America,Brazil,Cosmetics,Diana,online,Medium,"Tuesday, September 29, 2020",1157,"Friday, November 6, 2020",59,92.36,19.91,5449.24,1174.69,4274.55
+Asia,India,Clothing,Diana,OFFLINE,low,"Wednesday, January 8, 2020",1813,"Friday, January 31, 2020",91,83.19,30.58,7570.29,2782.78,4787.51
+South America,Brazil,Cosmetics,Charlie,Offline,CRITICAL,"Friday, May 1, 2020",1449,"Wednesday, July 15, 2020",23,61.91,18.98,1423.93,436.54,987.39
+Europe,France ,Cosmetics,Bob,OFFLINE,High,"Sunday, June 21, 2020",1789,"Sunday, March 1, 2020",61,37.12,13.2,2264.32,805.2,1459.12
+Africa,Nigeria,Office Supplies,Alice,online,High,"Thursday, May 28, 2020",1647,"Tuesday, May 5, 2020",76,19.8,48.84,1504.8,3711.84,-2207.04
+Africa,Kenya ,Clothing,Charlie,ONLINE,Medium,"Friday, February 14, 2020",1921,"Saturday, October 17, 2020",63,43.35,33.41,2731.05,2104.83,626.22
+North America,USA,Cosmetics,Alice,online,CRITICAL,"Saturday, November 7, 2020",1807,"Tuesday, September 29, 2020",89,81.32,47.38,7237.48,4216.82,3020.66
+Asia,China,Office Supplies,Alice,Offline,CRITICAL,"Thursday, April 2, 2020",1317,"Wednesday, September 16, 2020",91,38.84,41.3,3534.44,3758.3,-223.86
+South America,Brazil,Beverages,Alice,online,High,"Friday, January 31, 2020",1972,"Wednesday, February 26, 2020",,44.35,47.62,3636.7,3904.84,-268.14
+North America,Canada ,Clothing,Eve,ONLINE,Medium,"Monday, January 20, 2020",1912,"Saturday, March 28, 2020",5,38.47,35.44,192.35,177.2,15.15
+North America,USA,Cosmetics,Bob,OFFLINE,low,"Wednesday, October 7, 2020",1883,"Thursday, October 22, 2020",14,89.24,12.04,1249.36,168.56,1080.8
+North America,Canada ,Beverages,Diana,OFFLINE,High,"Wednesday, January 22, 2020",1451,"Thursday, July 30, 2020",34,33.01,24.58,1122.34,835.72,286.62
+North America,USA,Clothing,Alice,Offline,low,"Thursday, April 2, 2020",1818,"Wednesday, July 8, 2020",11,58.39,32.04,642.29,352.44,289.85
+North America,USA,Beverages,Alice,ONLINE,Medium,"Wednesday, January 15, 2020",1772,"Thursday, November 12, 2020",8,91.53,12.99,732.24,103.92,628.32
+Asia,India,Cosmetics,Bob,OFFLINE,low,"Saturday, August 1, 2020",1518,"Saturday, June 20, 2020",34,38.26,10.4,1300.84,353.6,947.24
+North America,Canada ,Beverages,Bob,OFFLINE,low,"Sunday, August 30, 2020",1554,"Tuesday, July 14, 2020",35,88.05,38.35,3081.75,908,1739.5
+Africa,Nigeria,Beverages,Bob,,CRITICAL,"Thursday, August 13, 2020",1471,"Saturday, October 31, 2020",62,66.7,47.76,4135.4,2961.12,1174.28
+North America,USA,Beverages,Alice,Offline,CRITICAL,"Wednesday, July 29, 2020",1248,"Tuesday, March 24, 2020",24,40.8,17.25,979.2,414,565.2
+South America,Argentina ,Office Supplies,Bob,ONLINE,low,"Tuesday, January 28, 2020",1912,"Friday, May 8, 2020",43,62.55,18.56,2689.65,798.08,1891.57
+Asia,India,Electronics,Charlie,OFFLINE,High,"Monday, August 3, 2020",1393,"Sunday, December 20, 2020",84,65.83,41.74,5529.72,3506.16,2023.56
+Africa,Kenya ,Electronics,Eve,Offline,CRITICAL,"Thursday, October 22, 2020",1136,"Thursday, November 5, 2020",86,47.14,36.96,4054.04,3178.56,875.48
+South America,Brazil,,Bob,OFFLINE,CRITICAL,"Wednesday, July 15, 2020",1937,"Monday, January 6, 2020",17,44.13,39.48,750.21,671.16,79.05
+Africa,Nigeria,Clothing,Diana,Offline,low,"Thursday, March 5, 2020",1371,"Thursday, April 2, 2020",60,70.3,14.56,4218,873.6,3344.4
+North America,Usa,,Alice,ONLINE,High,"Wednesday, July 1, 2020",1486,"Tuesday, March 24, 2020",14,77.46,5.31,1084.44,74.34,1010.1
+North America,USA,Beverages,Bob,ONLINE,low,"Thursday, June 4, 2020",1822,"Thursday, November 19, 2020",79,13.34,45.61,1053.86,3603.19,-2549.33
+Asia,China,Clothing,Eve,Offline,High,"Sunday, June 28, 2020",1119,"Saturday, May 9, 2020",1037,42.77,42.48,1582.49,1571.76,10.73
+Africa,Nigeria,Clothing,Alice,OFFLINE,Medium,"Sunday, August 23, 2020",1450,"Sunday, September 6, 2020",37,24.38,28.24,902.06,1044.88,-142.82
+Asia,India,Office Supplies,Bob,ONLINE,CRITICAL,"Saturday, September 19, 2020",1883,"Monday, December 28, 2020",8,15.85,41.32,126.8,330.56,-203.76
+North America,Canada ,Cosmetics,Diana,Offline,High,"Friday, September 11, 2020",1751,"Monday, November 16, 2020",75,65.45,14.43,4908.75,1082.25,3826.5
+Asia,India,Cosmetics,Charlie,ONLINE,Medium,"Saturday, April 4, 2020",1154,"Wednesday, August 26, 2020",14,71.14,24.25,995.96,339.5,656.46
+North America,USA,Beverages,Diana,online,Medium,"Wednesday, August 26, 2020",1193,"Saturday, October 17, 2020",70,83.59,31.21,5851.3,900,3666.6
+Europe,France ,Electronics,Eve,OFFLINE,Medium,"Wednesday, September 9, 2020",1817,"Monday, June 22, 2020",48,80.3,45.49,3854.4,2183.52,1670.88
+Africa,Kenya ,Office Supplies,Diana,ONLINE,CRITICAL,"Saturday, June 13, 2020",1412,"Friday, February 21, 2020",40,48.26,23.52,1930.4,940.8,989.6
+Europe,Germany,Beverages,Charlie,online,low,"Sunday, April 19, 2020",1539,"Saturday, March 28, 2020",26,50.75,18.13,1319.5,471.38,848.12
+North America,USA,Clothing,Bob,ONLINE,CRITICAL,"Saturday, October 10, 2020",1685,"Wednesday, June 17, 2020",100,79.35,33.42,7935,3342,4593
+Africa,Nigeria,Cosmetics,Bob,online,High,"Wednesday, October 21, 2020",1312,"Tuesday, April 14, 2020",37,66.6,31.66,2464.2,1171.42,1292.78
+North America,USA,Clothing,Bob,Offline,low,"Saturday, February 1, 2020",1978,"Monday, July 20, 2020",29,56.58,39.68,1640.82,1150.72,490.1
+Europe,France ,Beverages,Eve,online,High,"Monday, October 12, 2020",1713,"Friday, April 17, 2020",91,98.92,29.27,9001.72,2663.57,6338.15
+South America,Brazil,Office Supplies,Diana,Offline,low,"Tuesday, July 28, 2020",1858,"Sunday, August 30, 2020",77,96.78,9.3,7452.06,716.1,6735.96
+North America,Canada ,Clothing,Eve,online,Medium,"Sunday, April 5, 2020",1072,"Friday, December 25, 2020",57,43.92,39,2503.44,2223,280.44
+Europe,Germany,Cosmetics,Diana,ONLINE,Medium,"Friday, January 17, 2020",1831,"Sunday, March 15, 2020",63,50.58,38.29,3186.54,2412.27,774.27
+Asia,,Cosmetics,Alice,Offline,High,"Wednesday, December 16, 2020",1357,"Saturday, November 28, 2020",18,43.79,2766,788.22,495.9,292.32
+Asia,China,Clothing,Diana,ONLINE,CRITICAL,"Wednesday, May 13, 2020",1740,"Friday, October 23, 2020",90,29.88,41.96,2689.2,3776.4,-1087.2
+North America,Usa,Electronics,Diana,OFFLINE,High,"Wednesday, November 11, 2020",1314,"Saturday, October 10, 2020",38,24.22,26.7,920.36,1014.6,-94.24
+North America,USA,Cosmetics,Alice,OFFLINE,Medium,"Wednesday, July 29, 2020",1685,"Friday, October 2, 2020",59,63.15,9.02,3725.85,532.18,3193.67
+Africa,Nigeria,Electronics,Eve,OFFLINE,Medium,"Tuesday, February 25, 2020",1998,"Saturday, February 22, 2020",29,13.06,17.12,378.74,496.48,-117.74
+North America,USA,Beverages,Bob,OFFLINE,Medium,"Wednesday, May 20, 2020",1116,"Monday, September 7, 2020",33,48.15,37.8,1588.95,1247.4,341.55
+North America,Canada ,Clothing,Charlie,OFFLINE,High,"Wednesday, February 19, 2020",1733,"Thursday, August 13, 2020",40,19.18,12.88,767.2,515.2,252
+South America,Argentina ,Beverages,Diana,ONLINE,CRITICAL,"Saturday, June 13, 2020",1814,"Thursday, November 5, 2020",3333,14.16,10.19,467.28,336.27,131.01
+South America,Brazil,Office Supplies,Eve,online,low,"Thursday, April 16, 2020",1125,"Wednesday, July 1, 2020",27,83.93,28.83,2266.11,778.41,
+Europe,Germany,Beverages,Diana,Offline,low,"Monday, March 9, 2020",1556,"Thursday, May 21, 2020",98,78.58,2942,7700.84,2883.16,4817.68
+Asia,India,Electronics,Bob,ONLINE,CRITICAL,"Monday, January 4, 2021",1898,"Sunday, August 23, 2020",32,86.73,46.26,2775.36,1480.32,1295.04
+North America,Usa,Electronics,Eve,Offline,Medium,"Thursday, December 24, 2020",1722,"Tuesday, January 21, 2020",2,15.29,6.07,30.58,12.14,18.44
+Europe,France ,Cosmetics,Bob,online,Medium,"Wednesday, April 29, 2020",1382,"Friday, June 12, 2020",34,69.4,32.48,2359.6,1104.32,1255.28
+Europe,Germany,Clothing,Bob,online,low,"Saturday, July 18, 2020",1952,"Friday, May 22, 2020",37,94.81,12.71,3507.97,470.27,3037.7
+Asia,India,Beverages,Eve,OFFLINE,low,"Monday, January 27, 2020",1989,"Wednesday, August 19, 2020",36,90.35,24.23,,872.28,2380.32
+Asia,China,Cosmetics,Diana,Offline,High,"Tuesday, December 1, 2020",1845,"Thursday, June 18, 2020",69,94.07,39.1,6490.83,2697.9,3792.93
+Asia,India,Electronics,Diana,OFFLINE,low,"Tuesday, June 23, 2020",1675,"Tuesday, August 4, 2020",15,10.42,14.89,156.3,223.35,-67.05
+Europe,France ,Electronics,Bob,Offline,Medium,"Thursday, February 20, 2020",1017,"Wednesday, March 11, 2020",50,44.09,10.51,2204.5,525.5,1679
+Asia,India,Beverages,Bob,online,CRITICAL,"Wednesday, August 26, 2020",1593,"Sunday, February 23, 2020",81,53.45,35.35,4329.45,2863.35,1466.1
+Europe,Germany,Beverages,Diana,online,CRITICAL,"Friday, November 13, 2020",1170,"Wednesday, July 1, 2020",68,43.85,40.72,2981.8,2768.96,212.84
+Asia,India,Clothing,Bob,ONLINE,low,"Monday, May 4, 2020",1195,"Saturday, February 29, 2020",40,,48.66,963.2,1946.4,-983.2
+North America,USA,Cosmetics,Bob,OFFLINE,low,"Friday, January 17, 2020",1779,"Thursday, March 26, 2020",47,65.33,6.46,3070.51,303.62,
+South America,Brazil,Clothing,Diana,Offline,Medium,"Thursday, July 16, 2020",1893,"Monday, October 19, 2020",38,48.89,30.74,1857.82,1168.12,689.7
+North America,USA,Beverages,Diana,OFFLINE,,"Friday, March 13, 2020",1327,"Thursday, December 3, 2020",,95.56,36.55,6306.96,2412.3,3894.66
+South America,Argentina ,Cosmetics,Diana,Offline,CRITICAL,"Friday, April 3, 2020",1394,"Friday, January 17, 2020",36,72.99,41.9,2627.64,1508.4,1119.24
+Europe,Germany,Clothing,Diana,OFFLINE,Medium,"Tuesday, May 5, 2020",1306,"Monday, September 14, 2020",45,80.27,28.49,3612.15,1282.05,2330.1
+Asia,China,Office Supplies,Alice,OFFLINE,High,"Saturday, December 5, 2020",1120,"Monday, April 6, 2020",50,39.95,32.52,1997.5,1626,371.5
+Europe,France ,Electronics,Bob,Offline,CRITICAL,"Monday, January 20, 2020",1412,"Tuesday, June 23, 2020",53,62.22,26.28,3297.66,1392.84,1904.82
+Europe,Germany,Electronics,Diana,online,low,"Friday, June 5, 2020",1271,"Friday, March 13, 2020",60,47.88,10.89,2872.8,653.4,2219.4
+South America,Brazil,Electronics,Eve,online,CRITICAL,"Thursday, September 24, 2020",1237,"Saturday, June 6, 2020",93,54,24.26,5022,2256.18,2765.82
+Asia,India,Office Supplies,Eve,online,Medium,"Sunday, February 9, 2020",1368,"Friday, January 3, 2020",55,65.79,47.07,3618.45,2588.85,1029.6
+Asia,China,Clothing,Charlie,Offline,,"Thursday, July 30, 2020",1639,"Friday, July 24, 2020",84,35.36,29.59,2970.24,2485.56,484.68
+South America,Argentina ,Clothing,Bob,ONLINE,Medium,"Friday, February 7, 2020",1836,"Saturday, February 22, 2020",81,41.81,49.49,3386.61,4008.69,-622.08
+South America,Brazil,Cosmetics,Alice,Offline,CRITICAL,"Monday, December 28, 2020",1844,"Wednesday, May 20, 2020",77,16.39,19.18,1262.03,1476.86,-214.83
+Asia,India,Clothing,Alice,Offline,Medium,"Sunday, June 21, 2020",1617,"Sunday, November 29, 2020",10,61.87,46.9,618.7,469,149.7
+Asia,China,Office Supplies,Diana,online,low,"Tuesday, September 1, 2020",1625,"Tuesday, March 10, 2020",67,61.32,36.04,4108.44,2414.68,1693.76
+North America,Canada ,Beverages,Bob,Offline,CRITICAL,"Tuesday, January 14, 2020",1533,"Sunday, May 10, 2020",8,16.7,39.76,133.6,318.08,-184.48
+Africa,Kenya ,Beverages,Alice,OFFLINE,CRITICAL,"Friday, May 1, 2020",1317,"Monday, February 17, 2020",51,71.68,35.22,3655.68,1796.22,1859.46
+North America,Usa,Beverages,Alice,Offline,CRITICAL,"Sunday, March 29, 2020",1138,"Friday, April 24, 2020",66,45.13,23.56,2978.58,1554.96,1423.62
+North America,Canada ,Office Supplies,Alice,,High,"Sunday, November 1, 2020",1849,"Thursday, February 20, 2020",39,95.05,26.82,3706.95,1045.98,2660.97
+Africa,Nigeria,Office Supplies,Alice,OFFLINE,low,"Wednesday, July 15, 2020",1098,"Tuesday, February 4, 2020",55,71.1,17.27,3910.5,949.85,2960.65
+Africa,Kenya ,Cosmetics,Charlie,OFFLINE,High,"Saturday, September 26, 2020",1864,"Wednesday, April 22, 2020",33,40.11,49.55,1323.63,1635.15,-311.52
+Asia,India,Office Supplies,Diana,Offline,Medium,"Saturday, March 7, 2020",1183,"Sunday, October 11, 2020",55,10.05,23.39,552.75,1286.45,-733.7
+Africa,Nigeria,Office Supplies,Eve,OFFLINE,High,"Saturday, June 20, 2020",1835,"Monday, July 27, 2020",62,11.91,35.66,738.42,2210.92,-1472.5
+Europe,France ,Clothing,Charlie,OFFLINE,High,"Saturday, May 2, 2020",1688,"Tuesday, June 2, 2020",14,22.86,42.53,320.04,595.42,-275.38
+Asia,China,Office Supplies,Eve,Offline,High,"Thursday, January 16, 2020",1934,"Saturday, December 26, 2020",22,98.81,29.17,2173.82,641.74,1532.08
+South America,Brazil,Office Supplies,Diana,online,low,"Friday, March 20, 2020",1660,"Monday, February 3, 2020",78,32.6,31.81,2542.8,2481.18,61.62
+Asia,China,Cosmetics,Charlie,OFFLINE,Medium,"Wednesday, December 30, 2020",1688,"Tuesday, January 28, 2020",37,97.31,10.39,3600.47,384.43,3216.04
+South America,Argentina ,Office Supplies,Bob,ONLINE,low,"Thursday, April 30, 2020",1246,"Saturday, October 31, 2020",55,94.12,27.4,5176.6,1507,3669.6
+South America,Brazil,Beverages,Eve,Offline,CRITICAL,"Friday, March 20, 2020",1254,"Thursday, April 2, 2020",18,95.81,24.91,1724.58,448.38,1276.2
+Africa,Nigeria,Clothing,Eve,online,Medium,"Thursday, November 12, 2020",1214,"Friday, January 31, 2020",91,86.9,37.26,7907.9,3390.66,4517.24
+Africa,Kenya ,Electronics,Eve,OFFLINE,High,"Monday, January 20, 2020",1234,"Tuesday, December 29, 2020",81,16.41,33.86,1329.21,2742.66,-1413.45
+Europe,Germany,Office Supplies,Charlie,OFFLINE,CRITICAL,"Sunday, July 26, 2020",1848,"Friday, April 17, 2020",80,88.1,14.83,7048,1186.4,5861.6
+South America,Argentina ,Beverages,Bob,Offline,High,"Thursday, February 13, 2020",1183,"Thursday, July 9, 2020",89,55.4,45.82,4930.6,4077.98,852.62
+Africa,Nigeria,Clothing,Eve,online,CRITICAL,"Friday, August 14, 2020",1112,"Wednesday, May 20, 2020",92,71.9,44.3,6614.8,4075.6,2539.2
+South America,Brazil,Cosmetics,Charlie,OFFLINE,High,"Friday, February 21, 2020",1446,"Tuesday, August 11, 2020",24,89.29,34.51,2142.96,828.24,1314.72
+Europe,Germany,Electronics,Eve,Offline,CRITICAL,"Wednesday, December 16, 2020",1557,"Friday, September 25, 2020",36,92.81,16.61,3341.16,597.96,2743.2
+South America,Brazil,Clothing,Eve,OFFLINE,low,"Tuesday, July 28, 2020",1414,"Thursday, January 23, 2020",47,37.71,44.93,1772.37,2111.71,-339.34
+North America,USA,Electronics,Charlie,ONLINE,High,"Saturday, November 14, 2020",1253,"Monday, January 13, 2020",20,90.3,27.57,1806,551.4,1254.6
+South America,Argentina ,Beverages,Charlie,ONLINE,Medium,"Thursday, January 23, 2020",1429,"Tuesday, June 16, 2020",55,10.96,8,602.8,440,162.8
+South America,Brazil,Clothing,Charlie,ONLINE,Medium,"Monday, December 28, 2020",1949,"Thursday, January 2, 2020",74,87.15,24.16,6449.1,1787.84,4661.26
+Africa,Nigeria,Cosmetics,Bob,online,CRITICAL,"Thursday, September 3, 2020",1965,"Sunday, November 1, 2020",91,54.96,31.59,5001.36,2874.69,2126.67
+Europe,Germany,Electronics,Diana,OFFLINE,low,"Monday, February 24, 2020",1535,"Tuesday, October 20, 2020",5,39.9,30.45,199.5,152.25,47.25
+Europe,France ,Office Supplies,Alice,OFFLINE,Medium,"Saturday, August 1, 2020",1233,"Sunday, February 9, 2020",49,24.7,35.9,1210.3,1759.1,-548.8
+Asia,India,Clothing,Charlie,online,High,"Wednesday, August 19, 2020",1143,"Thursday, December 17, 2020",7,45.21,25.45,316.47,178.15,138.32
+Europe,Germany,Office Supplies,Diana,Offline,High,"Wednesday, September 30, 2020",1718,"Tuesday, January 14, 2020",3,64.39,16.66,193.17,49.98,143.19
+Europe,France ,Beverages,Alice,ONLINE,Medium,"Saturday, December 12, 2020",1771,"Sunday, October 25, 2020",38,35.18,27.91,1336.84,1060.58,276.26
+Europe,Germany,Electronics,Eve,Offline,Medium,"Thursday, April 30, 2020",1093,"Tuesday, May 19, 2020",76,15.99,20.45,1215.24,1554.2,-338.96
+North America,Canada ,Cosmetics,Diana,Offline,High,"Saturday, October 31, 2020",1973,"Sunday, May 3, 2020",30,38.62,8.09,1158.6,242.7,915.9
+Europe,France ,Office Supplies,Diana,ONLINE,Medium,"Monday, May 18, 2020",1913,"Tuesday, February 11, 2020",86,23.21,32.48,1996.06,2793.28,-797.22
+Africa,Kenya ,Clothing,Alice,OFFLINE,High,"Friday, October 30, 2020",1140,"Monday, August 24, 2020",38,96.1,40.5,3651.8,1539,2112.8
+Asia,China,Clothing,Eve,ONLINE,CRITICAL,"Friday, January 24, 2020",1724,"Sunday, December 6, 2020",87,33.13,30.54,2882.31,2656.98,225.33
+South America,Brazil,Beverages,Eve,online,Medium,"Monday, October 12, 2020",1433,"Monday, October 26, 2020",18,22.15,20.21,398.7,363.78,34.92
+North America,Usa,Electronics,Alice,ONLINE,Medium,"Friday, October 16, 2020",1472,"Friday, May 22, 2020",54,59.37,31.89,3205.98,1722.06,1483.92
+Europe,France ,Office Supplies,Bob,online,High,"Sunday, September 6, 2020",1778,"Tuesday, March 17, 2020",41,48.23,14.89,1977.43,610.49,1366.94
+Asia,India,Electronics,Charlie,ONLINE,Medium,"Sunday, November 1, 2020",1083,"Saturday, August 15, 2020",86,39.92,5.27,3433.12,453.22,2979.9
+North America,Canada ,Electronics,Bob,ONLINE,Medium,"Thursday, April 2, 2020",1393,"Thursday, October 8, 2020",13,15.61,48.93,202.93,636.09,-433.16
+Africa,Nigeria,Office Supplies,Bob,online,High,"Wednesday, June 24, 2020",1426,"Tuesday, December 8, 2020",63,29.88,36.07,1882.44,2272.41,-389.97
+Africa,Kenya ,Office Supplies,Charlie,OFFLINE,Medium,"Thursday, April 30, 2020",1629,"Sunday, January 26, 2020",55,67.1,43.81,3690.5,2409.55,1280.95
+Asia,China,Beverages,Charlie,ONLINE,High,"Sunday, May 31, 2020",1926,"Thursday, September 24, 2020",47,68.11,43.87,3201.17,2061.89,1139.28
+North America,USA,Electronics,Alice,online,Medium,"Saturday, December 5, 2020",1657,"Saturday, May 23, 2020",24,27.85,39.64,668.4,951.36,-282.96
+South America,Brazil,Beverages,Bob,Offline,low,"Friday, July 24, 2020",1007,"Wednesday, November 25, 2020",76,95.17,27.5,7232.92,2090,5142.92
+South America,Brazil,Beverages,Charlie,OFFLINE,Medium,"Friday, September 25, 2020",,"Wednesday, June 3, 2020",61,58.05,16.08,3541.05,980.88,2560.17
+Africa,Nigeria,Office Supplies,Charlie,Offline,High,"Saturday, March 7, 2020",1447,"Tuesday, June 9, 2020",81,85.6,36.35,6933.6,2944.35,3989.25
+South America,Argentina ,Clothing,Diana,Offline,High,"Sunday, March 8, 2020",1344,"Saturday, February 15, 2020",12,18.24,32.53,218.88,390.36,-171.48
+Africa,Kenya ,Beverages,Charlie,Offline,High,"Wednesday, December 2, 2020",1349,"Monday, September 28, 2020",10,62.05,7.3,620.5,73,547.5
+South America,Brazil,Cosmetics,Bob,Offline,CRITICAL,"Sunday, August 30, 2020",1287,"Wednesday, November 11, 2020",55,57.05,23.38,3137.75,1285.9,1851.85
+Africa,Nigeria,Beverages,Eve,OFFLINE,low,"Saturday, April 25, 2020",1912,"Wednesday, May 27, 2020",,83.83,35.91,5532.78,2370.06,3162.72
+Africa,Nigeria,Cosmetics,Eve,online,CRITICAL,"Monday, December 14, 2020",1768,"Friday, June 26, 2020",36,90.42,32.39,3255.12,1166.04,2089.08
+Asia,India,Beverages,Bob,Offline,CRITICAL,"Monday, July 20, 2020",1698,"Tuesday, October 6, 2020",47,97.83,9.31,4598.01,437.57,4160.44
+Africa,Kenya ,Clothing,Charlie,OFFLINE,Medium,"Friday, October 2, 2020",1225,"Tuesday, April 21, 2020",36,14.26,15.58,513.36,560.88,-47.52
+Africa,Nigeria,Electronics,Alice,Offline,Medium,"Saturday, April 25, 2020",1840,"Thursday, May 7, 2020",74,78.48,48.31,5807.52,3574.94,2232.58
+North America,Canada ,Cosmetics,Diana,OFFLINE,CRITICAL,"Wednesday, April 22, 2020",1204,"Tuesday, February 4, 2020",54,76.24,27.71,4116.96,1496.34,2620.62
+South America,Brazil,Electronics,Bob,ONLINE,High,"Thursday, January 16, 2020",1440,"Wednesday, February 19, 2020",12,12.68,32.59,152.16,391.08,-238.92
+Europe,Germany,Beverages,Diana,OFFLINE,Medium,"Monday, August 17, 2020",1246,"Monday, September 28, 2020",29,65.23,33.39,1891.67,968.31,923.36
+Asia,India,Office Supplies,Alice,ONLINE,CRITICAL,"Wednesday, November 25, 2020",1187,"Friday, April 24, 2020",23,88.45,31.68,2034.35,728.64,1305.71
+South America,Argentina ,Clothing,Diana,OFFLINE,High,"Thursday, August 6, 2020",1976,"Thursday, June 4, 2020",73,13.09,35.24,955.57,2572.52,-1616.95
+Asia,China,Office Supplies,Charlie,OFFLINE,CRITICAL,"Friday, May 8, 2020",1677,"Sunday, February 23, 2020",64,33.68,19.27,2155.52,1233.28,922.24
+Asia,India,Cosmetics,Eve,OFFLINE,High,"Monday, November 23, 2020",1734,"Wednesday, November 25, 2020",58,60.22,47.93,3492.76,2779.94,712.82
+Europe,France ,Office Supplies,Alice,online,Medium,"Saturday, August 1, 2020",1823,"Monday, August 3, 2020",90,73.71,29.74,6633.9,2676.6,3957.3
+North America,USA,Office Supplies,Eve,ONLINE,Medium,"Thursday, May 28, 2020",1644,"Sunday, September 20, 2020",77,94.93,21.95,7309.61,1690.15,5619.46
+Europe,Germany,Office Supplies,Charlie,online,low,"Wednesday, July 8, 2020",1589,"Friday, July 3, 2020",70,44,33.38,3080,2336.6,743.4
+North America,Usa,Clothing,Bob,Offline,Medium,"Sunday, December 20, 2020",1487,"Friday, February 28, 2020",31,73.22,37.37,2269.82,1158.47,1111.35
+Africa,Nigeria,Beverages,Eve,OFFLINE,High,"Thursday, May 7, 2020",1366,"Friday, June 5, 2020",92,28.55,22.19,2626.6,2041.48,585.12
+Europe,France ,Beverages,Eve,ONLINE,Medium,"Tuesday, February 25, 2020",1218,"Thursday, October 15, 2020",2,36.08,21.18,72.16,42.36,29.8
+South America,Brazil,Cosmetics,Eve,OFFLINE,High,"Tuesday, December 22, 2020",1256,"Thursday, February 20, 2020",7,20.14,34.97,140.98,244.79,-103.81
+Asia,,Clothing,Eve,Offline,Medium,"Tuesday, November 10, 2020",1670,"Tuesday, February 25, 2020",25,42.03,47.38,1050.75,1184.5,-133.75
+South America,Argentina ,Clothing,Diana,ONLINE,CRITICAL,"Saturday, February 22, 2020",,"Sunday, November 29, 2020",19,92.39,47.54,1755.41,903.26,852.15
+Europe,Germany,Cosmetics,Charlie,OFFLINE,low,"Sunday, September 20, 2020",1720,"Friday, October 9, 2020",31,79.61,37.84,2467.91,1173.04,1294.87
+Europe,France ,Beverages,Charlie,ONLINE,low,"Tuesday, August 25, 2020",1930,"Saturday, June 27, 2020",85,42.79,30.64,3637.15,2604.4,1032.75
+South America,Brazil,Cosmetics,Bob,online,CRITICAL,"Tuesday, November 3, 2020",1617,"Tuesday, July 21, 2020",30,19.2,14.92,576,447.6,128.4
+North America,Canada ,Electronics,Diana,Offline,CRITICAL,"Sunday, January 5, 2020",1470,"Sunday, June 14, 2020",75,64.2,38.89,4815,2916.75,1898.25
+South America,Brazil,Beverages,Alice,online,low,"Tuesday, November 17, 2020",1413,"Thursday, July 23, 2020",47,55.52,15.43,2609.44,725.21,1884.23
+South America,Argentina ,Beverages,Charlie,OFFLINE,low,"Wednesday, December 2, 2020",1429,"Friday, October 2, 2020",31,99.9,37.93,3096.9,1175.83,1921.07
+South America,Brazil,Beverages,Alice,ONLINE,CRITICAL,"Thursday, June 25, 2020",1632,"Tuesday, August 11, 2020",54,49.12,41.97,2652.48,2266.38,386.1
+Asia,India,Electronics,Charlie,ONLINE,Medium,"Tuesday, March 3, 2020",1454,"Saturday, April 18, 2020",67,29.61,45.62,1983.87,3056.54,-1072.67
+Africa,Kenya ,Office Supplies,Eve,ONLINE,low,"Thursday, May 7, 2020",1540,"Sunday, April 19, 2020",11,86.23,24.95,948.53,274.45,674.08
+Asia,China,Cosmetics,Alice,ONLINE,low,"Tuesday, September 1, 2020",1643,"Saturday, October 31, 2020",41,83.23,25.87,3412.43,1060.67,2351.76
+North America,USA,Electronics,Charlie,Offline,low,"Sunday, November 29, 2020",1668,"Thursday, April 30, 2020",54,83.88,13.93,4529.52,752.22,3777.3
+North America,USA,Clothing,Eve,OFFLINE,CRITICAL,"Monday, November 2, 2020",1849,"Monday, January 13, 2020",20,73.37,35.71,1467.4,714.2,753.2
+Asia,India,Electronics,Diana,OFFLINE,low,"Wednesday, March 25, 2020",1581,"Friday, April 24, 2020",9,36.38,34.44,327.42,309.96,17.46
+Europe,Germany,Cosmetics,Diana,Offline,low,"Monday, August 24, 2020",1108,"Wednesday, April 1, 2020",19,77.13,6.41,1465.47,121.79,1343.68
+Europe,Germany,Beverages,Bob,online,High,"Saturday, July 18, 2020",1421,"Saturday, October 17, 2020",50,77.86,45.64,3893,2282,1611
+South America,Brazil,Clothing,Diana,Offline,low,"Wednesday, April 15, 2020",1189,"Tuesday, August 25, 2020",81,71.84,30.34,5819.04,2457.54,3361.5
+Europe,France ,Office Supplies,Diana,ONLINE,CRITICAL,"Monday, June 29, 2020",1784,"Sunday, December 13, 2020",5,73.24,6.49,366.2,32.45,333.75
+South America,Argentina ,Clothing,Alice,ONLINE,High,"Saturday, January 11, 2020",1158,"Wednesday, March 4, 2020",51,67.97,11.99,3466.47,611.49,2854.98
+North America,Canada ,,Bob,online,CRITICAL,"Monday, February 17, 2020",1404,"Monday, October 26, 2020",29,20.43,29.38,592.47,,-259.55
+Africa,Nigeria,Electronics,Bob,online,CRITICAL,"Thursday, January 23, 2020",1046,"Friday, April 24, 2020",1,51.95,37.92,51.95,37.92,14.03
+Asia,India,Beverages,Charlie,OFFLINE,low,"Sunday, September 27, 2020",1079,"Tuesday, July 7, 2020",67,43.88,8.02,2939.96,537.34,2402.62
+Europe,Germany,Clothing,Diana,OFFLINE,Medium,"Tuesday, June 9, 2020",1580,"Saturday, March 28, 2020",50,64.36,18.11,3218,905.5,2312.5
+South America,Brazil,Cosmetics,Alice,ONLINE,Medium,"Tuesday, September 8, 2020",1199,"Tuesday, October 27, 2020",66,18.21,17.22,1201.86,1136.52,65.34
+North America,USA,Electronics,Bob,ONLINE,High,"Sunday, November 29, 2020",1099,"Monday, February 24, 2020",75,61.42,49.68,4606.5,3726,880.5
+Asia,China,Beverages,Eve,Offline,CRITICAL,"Thursday, October 22, 2020",1575,"Wednesday, November 4, 2020",82,86.69,13.51,7108.58,1107.82,6000.76
+Asia,India,Cosmetics,Diana,online,Medium,"Wednesday, March 25, 2020",1511,"Thursday, January 9, 2020",54,14.16,13.4,764.64,723.6,41.04
+Africa,Nigeria,Electronics,Eve,OFFLINE,low,"Sunday, November 8, 2020",1573,"Sunday, March 8, 2020",27,68.73,32.16,1855.71,868.32,987.39
+South America,Brazil,Office Supplies,Eve,OFFLINE,Medium,"Sunday, October 18, 2020",2000,"Sunday, June 14, 2020",47,25.29,48.14,1188.63,2262.58,-1073.95
+Africa,Kenya ,Clothing,Eve,online,Medium,"Thursday, June 4, 2020",1133,"Saturday, February 29, 2020",5,65.26,43.37,326.3,216.85,109.45
+North America,USA,Cosmetics,Bob,ONLINE,CRITICAL,"Wednesday, November 25, 2020",1515,"Friday, August 14, 2020",73,37.22,22.74,2717.06,1660.02,1057.04
+Asia,China,Clothing,Charlie,OFFLINE,Medium,"Wednesday, October 21, 2020",1079,"Wednesday, April 22, 2020",17,91.82,33.2,1560.94,564.4,996.54
+Europe,Germany,Office Supplies,Bob,ONLINE,CRITICAL,"Friday, May 22, 2020",1555,"Thursday, October 1, 2020",22,37.39,22.85,822.58,502.7,319.88
+South America,Argentina ,Clothing,Diana,Offline,High,"Thursday, October 29, 2020",1726,"Thursday, March 12, 2020",94,33.31,18.38,3131.14,1727.72,1403.42
+Europe,France ,Beverages,Charlie,online,Medium,"Thursday, August 27, 2020",1270,"Saturday, March 21, 2020",25,22.43,27.01,560.75,675.25,-114.5
+Europe,Germany,Cosmetics,Eve,Offline,CRITICAL,"Saturday, October 17, 2020",1488,"Wednesday, November 25, 2020",15,11.55,44.83,173.25,672.45,-499.2
+Asia,India,Clothing,Diana,ONLINE,low,"Wednesday, September 16, 2020",1434,"Friday, October 30, 2020",33,44.96,6.78,1483.68,223.74,1259.94
+South America,Brazil,Clothing,Eve,OFFLINE,High,"Thursday, October 15, 2020",1620,"Tuesday, June 2, 2020",11,40.81,29.79,448.91,,121.22
+North America,Canada ,Electronics,Eve,ONLINE,Medium,"Monday, June 1, 2020",1780,"Tuesday, February 11, 2020",55,21.13,31.15,1162.15,1713.25,-551.1
+North America,Usa,Electronics,Diana,online,High,"Tuesday, October 13, 2020",1620,"Sunday, June 14, 2020",9,82.03,11.85,738.27,106.65,631.62
+North America,USA,Office Supplies,Diana,ONLINE,Medium,"Wednesday, March 18, 2020",1081,"Thursday, January 9, 2020",93,24.83,12.58,2309.19,1169.94,1139.25
+South America,Brazil,Office Supplies,Charlie,online,low,"Wednesday, August 19, 2020",1922,"Sunday, November 8, 2020",89,63.59,26.03,5659.51,2316.67,3342.84
+Asia,China,Cosmetics,Charlie,online,High,"Saturday, July 25, 2020",1346,"Tuesday, September 15, 2020",53,32.94,13.43,1745.82,711.79,1034.03
+Africa,Nigeria,Clothing,Eve,online,CRITICAL,"Friday, April 3, 2020",1120,"Thursday, April 30, 2020",4,91.15,23.25,364.6,93,271.6
+Africa,Nigeria,Cosmetics,Diana,OFFLINE,low,"Monday, July 13, 2020",1121,"Thursday, January 9, 2020",40,30.32,38.42,1212.8,1536.8,-324
+Europe,France ,Clothing,Bob,ONLINE,Medium,"Sunday, November 22, 2020",1238,"Thursday, October 8, 2020",7,38.92,8.39,272.44,58.73,213.71
+Africa,Kenya ,Electronics,Diana,ONLINE,High,"Thursday, August 13, 2020",1200,"Friday, February 14, 2020",29,53.62,15.07,1554.98,437.03,1117.95
+South America,Argentina ,Beverages,Charlie,Offline,Medium,"Saturday, December 26, 2020",1522,"Sunday, February 16, 2020",60,13.33,31.82,799.8,1909.2,-1109.4
+South America,Brazil,Cosmetics,Diana,online,low,"Tuesday, October 13, 2020",1489,"Saturday, February 29, 2020",85,29.68,18.58,2522.8,1579.3,943.5
+North America,Canada ,Electronics,Eve,ONLINE,Medium,"Sunday, July 12, 2020",1984,"Sunday, May 31, 2020",37,33.02,17.75,1221.74,656.75,564.99
+Africa,Nigeria,Office Supplies,Bob,OFFLINE,Medium,"Thursday, December 10, 2020",1951,"Friday, September 18, 2020",27,52.53,21.93,1418.31,592.11,826.2
+North America,USA,Electronics,Charlie,online,High,"Friday, April 24, 2020",1942,"Tuesday, June 9, 2020",46,53.41,42.69,2456.86,1963.74,493.12
+Africa,Nigeria,,Bob,online,High,"Monday, April 6, 2020",1287,"Thursday, March 12, 2020",82,71.75,12.19,5883.5,999.58,4883.92
+North America,USA,Beverages,Diana,ONLINE,High,"Friday, December 4, 2020",1526,"Sunday, August 30, 2020",91,38.84,29.77,3534.44,2709.07,825.37
+South America,Brazil,Cosmetics,Eve,ONLINE,low,"Friday, August 7, 2020",1214,"Saturday, September 19, 2020",72,22.1,10.09,1591.2,726.48,864.72
+South America,Argentina ,Clothing,Bob,Offline,High,"Thursday, June 11, 2020",1243,"Saturday, December 5, 2020",78,67.14,47.25,5236.92,3685.5,1551.42
+South America,Brazil,Electronics,Alice,Offline,Medium,"Tuesday, May 5, 2020",1842,"Sunday, March 22, 2020",9,34.74,23.9,312.66,215.1,97.56
+Africa,Kenya ,Clothing,Charlie,OFFLINE,CRITICAL,"Monday, May 11, 2020",1005,"Friday, January 31, 2020",55,51.22,13.62,2817.1,749.1,2068
+Asia,China,Clothing,Diana,Offline,High,"Saturday, January 11, 2020",1102,"Wednesday, January 8, 2020",62,29.92,36.88,1855.04,2286.56,-431.52
+Asia,India,Cosmetics,Diana,OFFLINE,low,"Tuesday, June 9, 2020",1294,"Monday, March 23, 2020",86,34.79,14.31,2991.94,1230.66,1761.28
+Asia,China,Cosmetics,Bob,ONLINE,low,"Friday, December 11, 2020",1890,"Saturday, February 8, 2020",87,89.09,14.25,7750.83,1239.75,6511.08
+North America,Canada ,Office Supplies,Charlie,Offline,Medium,"Monday, February 17, 2020",1641,"Tuesday, May 19, 2020",49,65.49,6.12,3209.01,299.88,2909.13
+Europe,Germany,Cosmetics,Diana,OFFLINE,Medium,"Friday, February 7, 2020",1945,"Sunday, July 5, 2020",19,50.34,45.14,956.46,857.66,98.8
+Africa,Kenya ,Clothing,Bob,Offline,low,"Sunday, February 16, 2020",1998,"Tuesday, December 29, 2020",62,16.94,32.28,1050.28,2001.36,-951.08
+North America,USA,Cosmetics,Charlie,online,Medium,"Friday, August 14, 2020",1201,"Thursday, November 19, 2020",38,52.2,47.98,1983.6,1823.24,160.36
+South America,Brazil,Cosmetics,Bob,Offline,High,"Thursday, September 24, 2020",1905,"Monday, April 6, 2020",26,22.5,34.55,585,898.3,-313.3
+South America,Brazil,Cosmetics,Alice,ONLINE,High,"Monday, May 4, 2020",1470,"Saturday, August 8, 2020",78,32.09,38.47,2503.02,3000.66,-497.64
+Africa,Nigeria,Beverages,Diana,OFFLINE,Medium,"Tuesday, April 21, 2020",1745,"Monday, July 6, 2020",4,90.99,22.85,363.96,91.4,272.56
+Africa,Kenya ,Cosmetics,Bob,online,CRITICAL,"Tuesday, March 24, 2020",1280,"Wednesday, December 9, 2020",4,56.59,41.85,226.36,167.4,58.96
+Asia,China,Beverages,Alice,online,High,"Monday, March 16, 2020",1690,"Friday, September 18, 2020",66,16.24,49.6,1071.84,3273.6,-2201.76
+Africa,Nigeria,Clothing,Diana,OFFLINE,High,"Saturday, June 6, 2020",1394,"Sunday, April 12, 2020",45,31.14,42.19,1401.3,1898.55,-497.25
+Europe,Germany,Office Supplies,Alice,online,Medium,"Saturday, April 4, 2020",1189,"Sunday, August 23, 2020",89,91.6,31.19,8152.4,2775.91,5376.49
+Africa,Nigeria,Office Supplies,Diana,OFFLINE,low,"Sunday, October 4, 2020",1463,"Monday, March 2, 2020",23,36.36,48.7,836.28,1120.1,-283.82
+Africa,Nigeria,Electronics,Bob,ONLINE,low,"Tuesday, April 21, 2020",1893,"Sunday, January 5, 2020",9,14.74,49.95,132.66,449.55,-316.89
+Africa,Kenya ,Clothing,Alice,OFFLINE,low,"Thursday, October 15, 2020",1300,"Tuesday, March 3, 2020",59,26.64,11.4,1571.76,672.6,899.16
+Africa,Nigeria,Clothing,Alice,Offline,low,"Sunday, November 1, 2020",1076,"Wednesday, June 24, 2020",59,75.97,38.16,4482.23,2251.44,2230.79
+Africa,Kenya ,Beverages,Alice,OFFLINE,CRITICAL,"Monday, August 3, 2020",1370,"Saturday, August 29, 2020",100,27.76,48.14,2776,4814,-2038
+Africa,Kenya ,Office Supplies,Bob,Offline,low,"Thursday, March 19, 2020",,"Thursday, June 18, 2020",5,48.84,9.73,244.2,48.65,195.55
+North America,USA,Office Supplies,Diana,ONLINE,High,"Friday, August 21, 2020",1040,"Tuesday, June 16, 2020",95,70.24,48.37,6672.8,4595.15,2077.65
+South America,Argentina ,Electronics,Eve,OFFLINE,CRITICAL,"Tuesday, March 31, 2020",1033,"Sunday, October 11, 2020",93,20.79,43.8,1933.47,4073.4,-2139.93
+Asia,India,Beverages,Eve,Offline,High,"Wednesday, May 27, 2020",1358,"Tuesday, June 16, 2020",70,24.6,9.54,1722,667.8,1054.2
+Asia,China,Cosmetics,Diana,online,low,"Tuesday, March 3, 2020",1926,"Monday, June 8, 2020",94,18.43,31.12,1732.42,2925.28,-1192.86
+North America,Canada ,Beverages,Bob,Offline,low,"Saturday, October 31, 2020",1089,"Thursday, March 26, 2020",26,89.53,18.06,2327.78,469.56,1858.22
+Asia,India,Electronics,Charlie,online,CRITICAL,"Monday, June 29, 2020",1202,"Thursday, January 9, 2020",,11.56,23.62,1121.32,2291.14,-1169.82
+Africa,Nigeria,Beverages,Charlie,Offline,High,"Thursday, November 12, 2020",1703,"Tuesday, July 14, 2020",29,54.92,6.49,1592.68,188.21,1404.47
+Africa,Nigeria,Beverages,Charlie,online,CRITICAL,"Wednesday, November 25, 2020",1446,"Sunday, August 2, 2020",60,44.99,33.2,2699.4,1992,707.4
+South America,Brazil,Office Supplies,Alice,Offline,High,"Saturday, February 8, 2020",1376,"Thursday, November 26, 2020",60,19.59,36.18,1175.4,2170.8,-995.4
+Asia,India,Cosmetics,Diana,ONLINE,High,"Tuesday, December 15, 2020",1914,"Wednesday, January 8, 2020",46,23.1,45.07,1062.6,2073.22,-1010.62
+South America,Argentina ,Cosmetics,Diana,ONLINE,High,"Friday, June 19, 2020",1192,"Wednesday, December 23, 2020",76,77.88,7.33,5918.88,557.08,5361.8
+Africa,Kenya ,Cosmetics,Diana,online,CRITICAL,"Monday, February 24, 2020",1156,"Wednesday, December 23, 2020",45,43.48,6.74,1956.6,303.3,1653.3
+North America,USA,Beverages,Bob,ONLINE,High,"Monday, February 10, 2020",1590,"Wednesday, November 18, 2020",14,67.18,33.48,940.52,468.72,471.8
+South America,Brazil,Cosmetics,Bob,OFFLINE,low,"Sunday, January 19, 2020",1885,"Saturday, May 9, 2020",60,89.9,33.55,5394,2013,3381
+Europe,France ,Office Supplies,Alice,ONLINE,High,"Friday, December 4, 2020",1260,"Tuesday, August 4, 2020",5,81.6,44.24,408,221.2,186.8
+Asia,India,Beverages,Diana,Offline,CRITICAL,"Saturday, November 21, 2020",1894,"Tuesday, February 18, 2020",5,37.79,38.05,188.95,190.25,-1.3
+Asia,China,Electronics,Bob,ONLINE,Medium,"Thursday, October 1, 2020",1604,"Saturday, July 4, 2020",93,53.41,29.51,4967.13,2744.43,2222.7
+South America,Brazil,Clothing,Charlie,OFFLINE,Medium,"Sunday, August 9, 2020",1146,"Tuesday, December 22, 2020",16,18.74,28.1,299.84,449.6,-149.76
+Asia,India,Cosmetics,Eve,Offline,low,"Monday, April 20, 2020",1720,"Friday, February 21, 2020",11,67.65,13.02,744.15,143.22,600.93
+Africa,Nigeria,Office Supplies,Alice,Offline,CRITICAL,"Tuesday, July 7, 2020",1805,"Thursday, April 30, 2020",33,81.26,41.13,2681.58,1357.29,1324.29
+Africa,Kenya ,Beverages,Eve,Offline,low,"Sunday, December 6, 2020",1535,"Tuesday, December 1, 2020",56,97.98,36.63,5486.88,2051.28,3435.6
+Africa,Nigeria,Cosmetics,Eve,OFFLINE,low,"Saturday, April 4, 2020",1170,"Tuesday, May 5, 2020",80,29.34,45.96,2347.2,3676.8,-1329.6
+Africa,Kenya ,Cosmetics,Bob,online,High,"Sunday, July 5, 2020",1106,"Thursday, February 6, 2020",55,88.62,41.59,4874.1,2287.45,2586.65
+Africa,Kenya ,Beverages,Bob,Offline,CRITICAL,"Monday, June 8, 2020",1452,"Saturday, October 31, 2020",9,24.15,33.01,217.35,297.09,-79.74
+Africa,Nigeria,Electronics,Alice,ONLINE,High,"Tuesday, February 11, 2020",1796,"Tuesday, March 31, 2020",77,92.39,22.84,7114.03,1758.68,5355.35
+Africa,Nigeria,Cosmetics,Charlie,ONLINE,High,"Saturday, February 22, 2020",1846,"Monday, May 18, 2020",17,44.76,47.2,760.92,802.4,-41.48
+Africa,Kenya ,Electronics,Alice,ONLINE,Medium,"Friday, September 25, 2020",1238,"Thursday, August 13, 2020",43,57.08,18.88,2454.44,811.84,1642.6
+North America,USA,Clothing,Bob,OFFLINE,High,"Wednesday, July 1, 2020",,"Wednesday, July 8, 2020",52,27.73,19.15,1441.96,995.8,446.16
+South America,Argentina ,Electronics,Eve,online,High,"Monday, July 27, 2020",1223,"Saturday, July 4, 2020",9,48.49,10.48,436.41,94.32,342.09
+Asia,India,Office Supplies,Charlie,Offline,CRITICAL,"Saturday, August 15, 2020",1113,"Tuesday, March 10, 2020",54,91.91,15.5,4963.14,837,4126.14
+Asia,India,Cosmetics,Charlie,ONLINE,low,"Wednesday, May 6, 2020",1240,"Sunday, November 8, 2020",50,45.84,33.1,2292,1655,637
+South America,Brazil,Electronics,Diana,online,CRITICAL,"Friday, June 26, 2020",1336,"Monday, November 2, 2020",98,66.92,33.99,6558.16,3331.02,3227.14
+Asia,China,Office Supplies,Eve,online,Medium,"Saturday, January 25, 2020",1023,"Saturday, November 7, 2020",81,89.47,32.5,7247.07,2632.5,4614.57
+Africa,Nigeria,Office Supplies,Charlie,online,High,"Tuesday, December 1, 2020",1516,"Tuesday, January 14, 2020",64,25.47,10.22,1630.08,654.08,976
+Asia,India,Electronics,Charlie,ONLINE,High,"Sunday, January 3, 2021",1024,"Tuesday, November 3, 2020",34,18.2,39.04,618.8,1327.36,-708.56
+North America,Canada ,Office Supplies,Diana,OFFLINE,low,"Sunday, February 23, 2020",1071,"Sunday, November 29, 2020",17,56.09,33.19,953.53,564.23,389.3
+North America,USA,Office Supplies,Bob,Offline,CRITICAL,"Friday, May 1, 2020",1252,"Wednesday, March 25, 2020",27,83.67,13.19,2259.09,356.13,1902.96
+North America,Canada ,Clothing,Alice,,High,"Friday, July 17, 2020",1269,"Tuesday, January 7, 2020",71,76.77,38.79,5450.67,2754.09,2696.58
+Asia,India,Office Supplies,Alice,ONLINE,CRITICAL,"Saturday, April 11, 2020",1844,"Tuesday, December 22, 2020",52,49.93,6.81,2596.36,354.12,2242.24
+Europe,Germany,Beverages,Alice,OFFLINE,low,"Thursday, April 30, 2020",1647,"Thursday, June 4, 2020",25,89.92,7.02,2248,175.5,2072.5
+Europe,France ,Office Supplies,Diana,Offline,Medium,"Wednesday, October 14, 2020",1383,"Friday, January 10, 2020",96,58.91,49.17,5655.36,4720.32,935.04
+Africa,Kenya ,Beverages,Alice,online,High,"Wednesday, September 9, 2020",1201,"Saturday, June 6, 2020",95,81.72,25.97,7763.4,2467.15,5296.25
+Asia,China,Electronics,Bob,online,CRITICAL,"Monday, February 17, 2020",1265,"Tuesday, December 8, 2020",91,86.05,35.77,7830.55,3255.07,4575.48
+Africa,Nigeria,Electronics,Bob,online,High,"Sunday, December 6, 2020",1870,"Friday, July 3, 2020",18,48.3,10.22,869.4,183.96,685.44
+Africa,Nigeria,Cosmetics,Diana,OFFLINE,CRITICAL,"Thursday, February 6, 2020",1050,"Thursday, July 2, 2020",23,68.92,45.09,1585.16,1037.07,548.09
+Africa,Kenya ,Beverages,Charlie,Offline,CRITICAL,"Tuesday, November 3, 2020",1031,"Friday, March 13, 2020",8,49.22,32.37,393.76,258.96,134.8
+Africa,Nigeria,Beverages,Alice,online,High,"Monday, February 17, 2020",1876,"Saturday, August 29, 2020",34,22.32,20.47,758.88,695.98,62.9
+Africa,Kenya ,Electronics,Charlie,OFFLINE,CRITICAL,"Thursday, April 9, 2020",1375,"Monday, November 9, 2020",1,52.53,22.61,52.53,22.61,29.92
+Africa,Kenya ,Beverages,Charlie,OFFLINE,CRITICAL,"Tuesday, October 6, 2020",1922,"Thursday, September 3, 2020",26,36.24,15.35,942.24,399.1,543.14
+Africa,Nigeria,Clothing,Alice,OFFLINE,low,"Saturday, August 1, 2020",1527,"Tuesday, August 4, 2020",54,35.96,10.93,1941.84,590.22,1351.62
+Africa,Nigeria,Cosmetics,Alice,Offline,CRITICAL,"Saturday, March 7, 2020",1852,"Wednesday, November 4, 2020",11,49.29,47.75,542.19,525.25,16.94
+Africa,Kenya ,Electronics,Charlie,Offline,Medium,"Wednesday, February 19, 2020",1310,"Wednesday, March 11, 2020",51,84.36,42.29,4302.36,2156.79,2145.57
+Europe,France ,Electronics,Eve,ONLINE,High,"Wednesday, January 29, 2020",1548,"Thursday, July 30, 2020",84,97.45,8.75,8185.8,735,7450.8
+North America,USA,Beverages,Diana,ONLINE,CRITICAL,"Monday, September 28, 2020",,"Tuesday, April 7, 2020",81,11.91,48.34,964.71,3915.54,-2950.83
+South America,Argentina ,Office Supplies,Diana,Offline,High,"Saturday, February 1, 2020",1411,"Tuesday, August 4, 2020",19,48.08,20.76,913.52,394.44,519.08
+South America,Brazil,Clothing,Bob,Offline,High,"Sunday, November 29, 2020",1887,"Sunday, July 12, 2020",11,96.29,21.83,1059.19,240.13,819.06
+Asia,India,Cosmetics,Charlie,Offline,CRITICAL,"Thursday, October 22, 2020",1996,"Wednesday, January 1, 2020",57,31.42,34.39,1790.94,1960.23,-169.29
+Asia,China,Electronics,Bob,ONLINE,low,"Wednesday, April 22, 2020",1345,"Saturday, August 8, 2020",15,90.02,12.54,1350.3,188.1,1162.2
+Africa,Nigeria,Clothing,Diana,Offline,High,"Saturday, May 2, 2020",1499,"Thursday, January 16, 2020",44,74.38,38.04,3272.72,1673.76,1598.96
+North America,Canada ,Clothing,Alice,OFFLINE,CRITICAL,"Friday, June 19, 2020",1738,"Friday, September 11, 2020",59,62.94,34.89,3713.46,2058.51,1654.95
+Europe,Germany,Electronics,Alice,online,CRITICAL,"Friday, May 1, 2020",1613,"Friday, March 6, 2020",28,20.73,18.92,580.44,529.76,50.68
+Africa,Kenya ,Cosmetics,Charlie,online,low,"Tuesday, March 10, 2020",1988,"Sunday, January 26, 2020",49,95.72,16.76,4690.28,821.24,3869.04
+Europe,France ,Cosmetics,Eve,ONLINE,High,"Friday, September 25, 2020",1664,"Saturday, February 22, 2020",15,27.25,46.68,408.75,700.2,-291.45
+Europe,Germany,Beverages,Bob,ONLINE,CRITICAL,"Sunday, October 18, 2020",1960,"Sunday, December 27, 2020",93,49.51,49.96,4604.43,4646.28,-41.85
+Asia,India,Office Supplies,Diana,OFFLINE,High,"Saturday, August 22, 2020",1945,"Friday, November 13, 2020",18,34.11,8.75,613.98,157.5,456.48
+South America,Brazil,Electronics,Bob,Offline,low,"Tuesday, November 24, 2020",1532,"Tuesday, September 29, 2020",18,58.48,18.91,1052.64,340.38,712.26
+Europe,France ,Clothing,Charlie,ONLINE,High,"Thursday, October 1, 2020",1623,"Wednesday, August 19, 2020",89,86.56,48,7703.84,4272,3431.84
+North America,USA,Cosmetics,Eve,online,Medium,"Tuesday, August 4, 2020",1425,"Friday, September 4, 2020",98,14.65,42.51,1435.7,4165.98,-2730.28
+Asia,India,Cosmetics,Diana,Offline,Medium,"Friday, May 8, 2020",1523,"Wednesday, November 18, 2020",38,27.23,40.32,1034.74,1532.16,-497.42
+Asia,China,Electronics,Eve,OFFLINE,CRITICAL,"Monday, February 17, 2020",1854,"Thursday, March 19, 2020",97,88.89,32.35,8622.33,3137.95,5484.38
+Asia,India,Office Supplies,Eve,OFFLINE,High,"Monday, June 22, 2020",1131,"Friday, October 30, 2020",16,18.54,44.35,296.64,709.6,-412.96
+North America,USA,Beverages,Alice,online,Medium,"Saturday, December 26, 2020",1015,"Wednesday, November 18, 2020",7,33.62,16.29,235.34,114.03,121.31
+Asia,India,Clothing,Alice,Offline,CRITICAL,"Monday, July 27, 2020",1933,"Monday, March 16, 2020",100,51.92,33.54,5192,3354,1838
+Asia,China,Clothing,Alice,online,CRITICAL,"Saturday, January 18, 2020",1551,"Sunday, July 19, 2020",42,67.69,45.82,2842.98,1924.44,918.54
+Asia,India,Beverages,Eve,online,High,"Sunday, May 31, 2020",1523,"Wednesday, January 29, 2020",80,18.62,31.57,1489.6,2525.6,-1036
+Africa,Nigeria,Cosmetics,Diana,Offline,CRITICAL,"Tuesday, May 5, 2020",1187,"Friday, January 10, 2020",54,27.05,15.63,1460.7,844.02,616.68
+South America,Brazil,Beverages,Alice,OFFLINE,Medium,"Wednesday, December 30, 2020",1152,"Tuesday, September 22, 2020",38,40.28,30.14,1530.64,1145.32,385.32
+North America,Canada ,,Eve,ONLINE,High,"Thursday, April 30, 2020",1068,"Friday, July 24, 2020",24,13.62,10.13,326.88,243.12,83.76
+South America,Argentina ,Electronics,Diana,online,High,"Sunday, February 16, 2020",1907,"Monday, August 24, 2020",44,94.39,49.39,4153.16,2173.16,1980
+Europe,Germany,Beverages,Charlie,ONLINE,High,"Friday, May 15, 2020",1916,"Thursday, October 1, 2020",31,19.92,29.26,617.52,907.06,-289.54
+South America,Brazil,Office Supplies,Alice,ONLINE,High,"Sunday, October 4, 2020",1619,"Thursday, May 7, 2020",84,46.94,7.59,3942.96,637.56,3305.4
+South America,Argentina ,Clothing,Diana,online,High,"Monday, October 26, 2020",1332,"Tuesday, July 7, 2020",39,60.65,30.61,2365.35,1193.79,1171.56
+Africa,Kenya ,Clothing,Bob,Offline,Medium,"Wednesday, April 1, 2020",1271,"Saturday, October 24, 2020",50,30.5,12.13,1525,606.5,918.5
+Asia,China,Office Supplies,Charlie,online,Medium,"Tuesday, January 14, 2020",1426,"Friday, May 1, 2020",58,60.15,14.39,3488.7,834.62,2654.08
+North America,Usa,Office Supplies,Charlie,OFFLINE,High,"Thursday, November 19, 2020",1633,"Sunday, April 19, 2020",39,48.86,43.81,1905.54,1708.59,196.95
+Europe,Germany,Clothing,Diana,online,High,"Tuesday, September 29, 2020",1662,"Friday, September 25, 2020",60,63.45,9.31,3807,558.6,3248.4
+Africa,Nigeria,Electronics,Bob,Offline,CRITICAL,"Saturday, August 8, 2020",1489,"Sunday, November 29, 2020",2,95.97,8.69,191.94,17.38,174.56
+South America,Brazil,Office Supplies,Bob,OFFLINE,low,"Tuesday, February 18, 2020",1183,"Thursday, March 12, 2020",91,88.65,6.21,8067.15,565.11,7502.04
+North America,USA,Electronics,Alice,online,Medium,"Thursday, February 20, 2020",1873,"Tuesday, April 14, 2020",87,13.47,18.84,1171.89,,-467.19
+North America,Canada ,Clothing,Charlie,OFFLINE,High,"Sunday, November 1, 2020",1973,"Tuesday, August 11, 2020",35,61.07,24.79,2137.45,867.65,1269.8
+North America,,Cosmetics,Diana,ONLINE,,"Thursday, August 13, 2020",1378,"Wednesday, November 18, 2020",46,49.41,38.18,2272.86,1756.28,516.58
+North America,USA,Electronics,Eve,online,High,"Monday, January 4, 2021",1049,"Wednesday, April 22, 2020",99,33.14,6.83,3280.86,676.17,2604.69
+Africa,Kenya ,Cosmetics,Charlie,OFFLINE,CRITICAL,"Thursday, February 6, 2020",1325,"Friday, April 24, 2020",40,69.77,31.46,2790.8,1258.4,1532.4
+Asia,India,Cosmetics,Alice,online,CRITICAL,"Thursday, November 19, 2020",1364,"Friday, July 10, 2020",2,54,18.1,108,36.2,71.8
+Africa,,Cosmetics,Bob,online,Medium,"Tuesday, January 14, 2020",1348,"Friday, September 25, 2020",51,81.2,33.89,4141.2,1728.39,2412.81
+Europe,France ,Cosmetics,Eve,online,Medium,"Thursday, February 27, 2020",1851,"Tuesday, March 10, 2020",98,16.47,39.87,1614.06,3907.26,-2293.2
+Africa,Nigeria,Electronics,Charlie,Offline,Medium,"Friday, February 14, 2020",1441,"Tuesday, February 25, 2020",14,47.65,7.2,667.1,100.8,566.3
+Europe,Germany,Electronics,Diana,online,High,"Wednesday, May 27, 2020",1428,"Sunday, May 3, 2020",63,58.42,10.87,3680.46,684.81,2995.65
+Asia,China,Clothing,Bob,OFFLINE,CRITICAL,"Wednesday, March 18, 2020",1144,"Saturday, February 15, 2020",77,19.67,39.32,1514.59,3027.64,-1513.05
+Asia,India,Clothing,Alice,Offline,CRITICAL,"Friday, October 30, 2020",1605,"Thursday, November 26, 2020",18,16.77,46.49,301.86,836.82,-534.96
+South America,Brazil,Electronics,Eve,Offline,CRITICAL,"Tuesday, March 31, 2020",1025,"Saturday, May 2, 2020",27,80.57,28.93,2175.39,781.11,1394.28
+North America,USA,Cosmetics,Charlie,,Medium,"Sunday, April 26, 2020",1913,"Tuesday, July 14, 2020",15,38.03,,570.45,688.95,-118.5
+Asia,India,Electronics,Eve,online,CRITICAL,"Saturday, June 6, 2020",1258,"Sunday, June 21, 2020",55,72.01,47.6,3960.55,2618,1342.55
+Europe,France ,Clothing,Charlie,Offline,CRITICAL,"Friday, October 2, 2020",1474,"Friday, August 7, 2020",95,37.06,29.57,3520.7,2809.15,711.55
+South America,Brazil,Electronics,Diana,online,low,"Sunday, August 9, 2020",1811,"Friday, August 14, 2020",85,23.66,22.45,2011.1,1908.25,102.85
+Europe,Germany,Cosmetics,Alice,online,Medium,"Monday, March 2, 2020",1521,"Monday, April 13, 2020",96,43.84,18.09,4208.64,1736.64,2472
+South America,Argentina ,Office Supplies,Diana,Offline,low,"Thursday, September 17, 2020",1683,"Tuesday, April 21, 2020",4,87.02,20.47,348.08,81.88,266.2
+South America,Brazil,Clothing,Eve,OFFLINE,low,"Friday, May 1, 2020",1527,"Tuesday, September 1, 2020",7,89.56,42.99,626.92,300.93,325.99
+Africa,Kenya ,Cosmetics,Bob,online,Medium,"Friday, December 18, 2020",1851,"Saturday, May 23, 2020",12,90.32,15.79,1083.84,189.48,894.36
+North America,Canada ,Beverages,Charlie,ONLINE,CRITICAL,"Saturday, August 8, 2020",1256,"Thursday, June 11, 2020",64,34.75,11.24,2224,719.36,1504.64
+South America,Argentina ,Beverages,Bob,OFFLINE,High,"Saturday, August 15, 2020",1324,"Friday, September 11, 2020",7,66.67,8.89,466.69,62.23,404.46
+North America,USA,Office Supplies,Diana,ONLINE,low,"Wednesday, November 11, 2020",1812,"Tuesday, May 12, 2020",10,66.61,30.95,666.1,309.5,356.6
+Europe,France ,Clothing,Diana,Offline,Medium,"Wednesday, April 1, 2020",1474,"Saturday, October 17, 2020",53,76.14,20.79,4035.42,1101.87,2933.55
+Africa,Nigeria,Office Supplies,Bob,ONLINE,,"Friday, January 10, 2020",1968,"Monday, September 28, 2020",77,29.32,22.72,2257.64,1749.44,508.2
+Asia,China,Office Supplies,Diana,ONLINE,Medium,"Thursday, February 13, 2020",1432,"Sunday, March 8, 2020",12,24.7,33.77,296.4,405.24,-108.84
+North America,Canada ,,Diana,online,CRITICAL,"Sunday, November 1, 2020",1417,"Thursday, April 23, 2020",80,90.31,31.38,7224.8,2510.4,4714.4
+Europe,Germany,Cosmetics,Alice,OFFLINE,Medium,"Tuesday, June 23, 2020",1639,"Friday, July 17, 2020",83,90.9,21.51,7544.7,1785.33,5759.37
+South America,Brazil,Electronics,Eve,online,High,"Thursday, February 6, 2020",1640,"Monday, March 9, 2020",42,70.44,16.92,2958.48,710.64,2247.84
+South America,Brazil,Clothing,Bob,Offline,High,"Saturday, September 5, 2020",1775,"Friday, December 4, 2020",33,43.83,37.37,1446.39,1233.21,213.18
+Europe,France ,Electronics,Alice,ONLINE,,"Thursday, November 19, 2020",1031,"Sunday, November 15, 2020",88,40.79,17.9,3589.52,1575.2,2014.32
+Asia,India,Office Supplies,Alice,online,Medium,"Tuesday, June 16, 2020",1573,"Thursday, July 16, 2020",47,46.79,46.93,2199.13,2205.71,-6.58
+South America,Argentina ,Clothing,Diana,Offline,Medium,"Monday, June 15, 2020",1763,"Saturday, February 22, 2020",62,92.84,44.02,5756.08,2729.24,3026.84
+Asia,India,Office Supplies,Eve,OFFLINE,CRITICAL,"Sunday, June 7, 2020",1626,"Saturday, June 20, 2020",13,78.48,41.6,1020.24,540.8,479.44
+Asia,China,Clothing,Charlie,online,High,"Saturday, February 8, 2020",1353,"Tuesday, July 28, 2020",2,69.26,7.35,138.52,14.7,123.82
+South America,Brazil,Electronics,Diana,online,low,"Tuesday, November 10, 2020",1758,"Saturday, December 5, 2020",23,99.27,35.88,2283.21,825.24,1457.97
+Africa,Kenya ,Cosmetics,Charlie,online,low,"Tuesday, September 29, 2020",1996,"Sunday, February 23, 2020",43,78.39,18.55,3370.77,797.65,2573.12
+South America,Brazil,Clothing,Alice,Offline,CRITICAL,"Thursday, February 13, 2020",1710,"Thursday, September 17, 2020",13,39.23,22.9,509.99,297.7,212.29
+Europe,Germany,Cosmetics,Alice,ONLINE,low,"Friday, May 1, 2020",1069,"Wednesday, March 4, 2020",89,80.56,14.82,7169.84,1318.98,5850.86
+South America,Argentina ,Electronics,Alice,Offline,High,"Sunday, November 15, 2020",1429,"Friday, January 3, 2020",73,40.33,40.48,2944.09,2955.04,-10.95
+North America,USA,Clothing,Diana,online,High,"Monday, July 13, 2020",1905,"Saturday, February 29, 2020",35,89.43,31.61,3130.05,1106.35,2023.7
+South America,Brazil,Office Supplies,Charlie,Offline,High,"Thursday, June 25, 2020",1817,"Sunday, November 8, 2020",28,80.96,10.68,2266.88,299.04,1967.84
+Asia,India,Clothing,Diana,OFFLINE,High,"Sunday, December 20, 2020",1138,"Tuesday, January 28, 2020",22,31.37,32.72,690.14,719.84,-29.7
+Europe,France ,Cosmetics,Charlie,Offline,High,"Thursday, May 28, 2020",1028,"Sunday, March 1, 2020",100,19.31,45.28,1931,4528,-2597
+Europe,Germany,Cosmetics,Bob,OFFLINE,CRITICAL,"Friday, February 14, 2020",1130,"Monday, February 3, 2020",44,89.14,42.01,3922.16,1848.44,2073.72
+North America,USA,Beverages,Charlie,online,High,"Saturday, September 19, 2020",1018,"Sunday, November 8, 2020",24,43.29,8.7,1038.96,208.8,830.16
+Europe,Germany,Office Supplies,Diana,ONLINE,High,"Saturday, October 10, 2020",1573,"Friday, September 25, 2020",71,84.37,18.07,5990.27,1282.97,4707.3
+North America,Canada ,Clothing,Bob,Offline,Medium,"Thursday, January 30, 2020",1355,"Saturday, September 12, 2020",73,91.46,48.09,6676.58,3510.57,3166.01
+Asia,China,Electronics,Bob,online,CRITICAL,"Monday, June 8, 2020",1473,"Friday, December 25, 2020",14,86.37,18.02,1209.18,252.28,956.9
+South America,Brazil,Clothing,Diana,online,High,"Sunday, March 8, 2020",1007,"Saturday, January 4, 2020",46,31.22,21.35,1436.12,982.1,454.02
+Asia,China,Clothing,Diana,ONLINE,Medium,"Thursday, March 5, 2020",1031,"Tuesday, July 14, 2020",96,54.97,11.65,5277.12,1118.4,4158.72
+North America,USA,Clothing,Alice,ONLINE,CRITICAL,"Saturday, December 19, 2020",1513,"Thursday, December 10, 2020",11,38.54,27.71,423.94,304.81,119.13
+Africa,Nigeria,Office Supplies,Alice,ONLINE,low,"Sunday, February 16, 2020",1191,"Thursday, August 27, 2020",4,95.19,25.83,380.76,103.32,277.44
+South America,Brazil,Electronics,Eve,Offline,low,"Friday, July 10, 2020",1719,"Saturday, September 12, 2020",22,89.04,42.16,1958.88,927.52,1031.36
+North America,USA,Beverages,Alice,online,CRITICAL,"Thursday, April 9, 2020",1727,"Saturday, November 28, 2020",98,55.57,31.53,5445.86,3089.94,2355.92
+South America,Argentina ,Office Supplies,Diana,ONLINE,low,"Saturday, December 19, 2020",1078,"Monday, January 20, 2020",69,45.38,21.46,3131.22,1480.74,1650.48
+North America,Canada ,Beverages,Alice,Offline,High,"Tuesday, November 17, 2020",1940,"Saturday, February 8, 2020",82,48.13,11.44,3946.66,938.08,3008.58
+North America,USA,Beverages,Diana,OFFLINE,low,"Thursday, June 4, 2020",1787,"Friday, July 31, 2020",43,33.18,28.63,1426.74,1231.09,195.65
+Asia,China,Cosmetics,Eve,ONLINE,low,"Thursday, December 31, 2020",1902,"Friday, February 28, 2020",89,21.84,22.13,1943.76,1969.57,-25.81
+Africa,Kenya ,Beverages,Bob,online,CRITICAL,"Thursday, December 17, 2020",1060,"Saturday, December 19, 2020",65,99.25,36.51,6451.25,2373.15,4078.1
+Asia,India,Clothing,Charlie,ONLINE,CRITICAL,"Monday, December 21, 2020",1872,"Monday, April 27, 2020",12,54.15,5.16,649.8,61.92,587.88
+Asia,India,Office Supplies,Alice,ONLINE,Medium,"Sunday, March 8, 2020",1986,"Tuesday, August 18, 2020",94,56.92,9.49,5350.48,892.06,4458.42
+Africa,Nigeria,Cosmetics,Diana,OFFLINE,CRITICAL,"Sunday, February 9, 2020",1655,"Sunday, July 12, 2020",47,60.16,20.17,2827.52,947.99,1879.53
+Asia,China,Clothing,Charlie,online,High,"Tuesday, March 3, 2020",1288,"Monday, December 21, 2020",79,47.51,7.3,3753.29,576.7,3176.59
+Asia,India,Office Supplies,Bob,OFFLINE,CRITICAL,"Wednesday, July 15, 2020",1009,"Monday, August 3, 2020",68,59.93,14.93,4075.24,1015.24,3060
+Asia,China,Clothing,Alice,ONLINE,CRITICAL,"Sunday, November 1, 2020",1711,"Monday, October 19, 2020",38,23.14,24.54,879.32,932.52,-53.2
+Asia,China,Beverages,Bob,OFFLINE,CRITICAL,"Thursday, January 9, 2020",1661,"Wednesday, May 27, 2020",62,94.45,25.52,5855.9,1582.24,4273.66
+Asia,China,Clothing,Eve,Offline,low,"Tuesday, April 14, 2020",1036,"Sunday, July 26, 2020",84,27.49,40.88,2309.16,3433.92,-1124.76
+Asia,India,Clothing,Bob,online,Medium,"Saturday, December 12, 2020",1315,"Friday, December 11, 2020",88,18.91,45.49,1664.08,,-2339.04
+Africa,Kenya ,Clothing,Charlie,OFFLINE,low,"Tuesday, February 25, 2020",1301,"Saturday, July 4, 2020",59,76.67,14.42,4523.53,850.78,3672.75
+Asia,China,Beverages,Diana,ONLINE,CRITICAL,"Thursday, August 27, 2020",1175,"Saturday, August 22, 2020",36,88.97,30.05,3202.92,1081.8,2121.12
+Asia,India,Office Supplies,Bob,online,High,"Tuesday, October 13, 2020",1684,"Tuesday, April 28, 2020",17,45.94,28.33,780.98,481.61,299.37
+Asia,China,Beverages,Alice,OFFLINE,low,"Saturday, October 10, 2020",1060,"Tuesday, March 10, 2020",15,40.6,34.2,609,513,96
+Asia,China,Beverages,Charlie,OFFLINE,High,"Wednesday, November 4, 2020",1192,"Wednesday, August 12, 2020",82,31.93,13.39,2618.26,1097.98,1520.28
+Asia,China,Cosmetics,Diana,Offline,CRITICAL,"Saturday, February 15, 2020",1211,"Tuesday, February 11, 2020",17,77.11,49.28,1310.87,837.76,473.11
+Asia,India,Office Supplies,Bob,ONLINE,High,"Friday, June 19, 2020",1032,"Saturday, September 5, 2020",69,26.27,29.11,1812.63,2008.59,-195.96
+South America,Brazil,Beverages,Charlie,ONLINE,High,"Sunday, July 5, 2020",1669,"Monday, July 27, 2020",76,27.25,20.7,2071,1573.2,497.8
+South America,Argentina ,Beverages,Bob,ONLINE,Medium,"Saturday, October 31, 2020",1216,"Monday, January 27, 2020",57,35.88,27.44,2045.16,1564.08,481.08
+South America,Brazil,Cosmetics,Charlie,Offline,CRITICAL,"Tuesday, November 24, 2020",1810,"Friday, October 9, 2020",26,17.38,38.78,451.88,1008.28,-556.4
+North America,Canada ,Clothing,Eve,Offline,Medium,"Tuesday, May 26, 2020",1780,"Thursday, July 23, 2020",95,86.89,39.95,8254.55,3795.25,4459.3
+Europe,Germany,Beverages,Alice,online,Medium,"Saturday, August 8, 2020",1616,"Friday, June 5, 2020",18,45.18,8.06,813.24,145.08,668.16
+Africa,Nigeria,Clothing,Bob,OFFLINE,low,"Saturday, July 11, 2020",1008,"Sunday, May 10, 2020",98,12.84,32.51,1258.32,3185.98,-1927.66
+Africa,Kenya ,Beverages,Bob,Offline,CRITICAL,"Thursday, November 5, 2020",1135,"Saturday, March 28, 2020",75,13.23,13.92,992.25,1044,-51.75
+Europe,France ,Office Supplies,Eve,OFFLINE,CRITICAL,"Saturday, May 23, 2020",1613,"Thursday, November 19, 2020",34,96.25,43.32,3272.5,1472.88,1799.62
+Africa,Nigeria,Beverages,Alice,OFFLINE,Medium,"Monday, May 25, 2020",1889,"Monday, August 17, 2020",87,87.6,26.49,7621.2,2304.63,5316.57
+Africa,Kenya ,Clothing,Bob,OFFLINE,Medium,"Wednesday, June 10, 2020",1474,"Wednesday, July 8, 2020",30,82.11,21.1,2463.3,633,1830.3
+North America,Canada ,Electronics,Bob,Offline,CRITICAL,"Friday, January 10, 2020",1688,"Monday, July 20, 2020",71,22.48,19.9,1596.08,1412.9,183.18
+South America,Brazil,Office Supplies,Eve,Offline,High,"Wednesday, September 30, 2020",1787,"Friday, June 19, 2020",31,19.61,32.48,607.91,1006.88,-398.97
+Europe,Germany,Cosmetics,Diana,Offline,Medium,"Friday, September 4, 2020",1833,"Wednesday, August 19, 2020",92,73.34,44.56,6747.28,4099.52,2647.76
+Asia,India,Electronics,Alice,OFFLINE,low,"Tuesday, April 28, 2020",1672,"Saturday, April 4, 2020",32,15.22,26.59,487.04,850.88,-363.84
+South America,Brazil,Cosmetics,Bob,Offline,CRITICAL,"Saturday, August 29, 2020",1743,"Sunday, August 9, 2020",58,26.51,5.43,1537.58,314.94,1222.64
+North America,USA,Electronics,Bob,Offline,Medium,"Wednesday, December 23, 2020",1725,"Friday, May 29, 2020",76,39.88,25.14,3030.88,1910.64,1120.24
+North America,Canada ,Cosmetics,Eve,OFFLINE,High,"Tuesday, June 16, 2020",1751,"Saturday, September 26, 2020",51,41.57,24.33,2120.07,1240.83,879.24
+North America,USA,Cosmetics,Eve,Offline,CRITICAL,"Wednesday, July 15, 2020",1373,"Monday, September 21, 2020",13,22.07,49.03,286.91,637.39,-350.48
+Europe,France ,Beverages,Alice,online,CRITICAL,"Saturday, February 15, 2020",1354,"Monday, March 30, 2020",11,11.44,44.74,125.84,492.14,-366.3
+South America,Argentina ,Cosmetics,Alice,ONLINE,low,"Tuesday, March 10, 2020",1394,"Thursday, November 19, 2020",22,50.87,6.28,1119.14,138.16,980.98
+Africa,Nigeria,Clothing,Alice,ONLINE,High,"Wednesday, June 17, 2020",1640,"Saturday, September 5, 2020",97,77.94,8.07,7560.18,782.79,6777.39
+Africa,Kenya ,Cosmetics,Bob,OFFLINE,,"Monday, December 7, 2020",1286,"Friday, May 15, 2020",52,95.49,42.45,4965.48,2207.4,2758.08
+Asia,India,Beverages,Charlie,online,Medium,"Sunday, August 9, 2020",1697,"Wednesday, January 22, 2020",67,82.99,18.99,5560.33,1272.33,4288
+Europe,Germany,Clothing,Eve,OFFLINE,Medium,"Thursday, May 7, 2020",1681,"Wednesday, December 30, 2020",25,28.86,22.73,721.5,568.25,153.25
+Europe,Germany,Electronics,Alice,Offline,High,"Sunday, February 9, 2020",1637,"Friday, June 26, 2020",63,80.89,31.25,5096.07,1968.75,3127.32
+North America,Canada ,Clothing,Diana,OFFLINE,CRITICAL,"Monday, March 9, 2020",1786,"Tuesday, November 3, 2020",40,44.3,11.44,1772,457.6,1314.4
+South America,Brazil,Electronics,Diana,Offline,High,"Thursday, March 26, 2020",1407,"Sunday, December 20, 2020",90,54.55,9.35,4909.5,841.5,4068
+Europe,Germany,Cosmetics,Bob,online,CRITICAL,"Monday, April 6, 2020",1664,"Sunday, February 2, 2020",7,,30.25,137.27,211.75,-74.48
+Europe,France ,Electronics,Alice,ONLINE,Medium,"Saturday, October 10, 2020",1445,"Thursday, March 19, 2020",41,26.86,25.14,1101.26,1030.74,70.52
+Africa,Nigeria,Office Supplies,Charlie,OFFLINE,Medium,"Thursday, May 21, 2020",1177,"Monday, February 3, 2020",71,96.02,22.08,6817.42,1567.68,5249.74
+South America,Brazil,Clothing,Bob,Offline,low,"Sunday, November 15, 2020",1455,"Friday, June 19, 2020",57,23.23,46.21,1324.11,2633.97,-1309.86
+Europe,Germany,Electronics,Diana,OFFLINE,Medium,"Wednesday, October 7, 2020",1363,"Tuesday, June 2, 2020",99,39.62,31.05,3922.38,3073.95,848.43
+Asia,China,Clothing,Eve,ONLINE,Medium,"Thursday, October 22, 2020",1980,"Monday, March 30, 2020",4,26.5,37.06,106,148.24,-42.24
+North America,USA,Office Supplies,Bob,OFFLINE,low,"Thursday, November 12, 2020",1945,"Saturday, September 5, 2020",89,10.38,29.56,923.82,2630.84,-1707.02
+North America,Usa,Clothing,Diana,OFFLINE,High,"Thursday, July 30, 2020",1966,"Wednesday, March 4, 2020",33,34.59,35.03,1141.47,1155.99,-14.52
+Africa,Kenya ,Beverages,Eve,online,Medium,"Monday, July 20, 2020",1864,"Wednesday, October 28, 2020",32,97.84,19.37,3130.88,619.84,2511.04
+Africa,Kenya ,Clothing,Charlie,Offline,High,"Friday, July 24, 2020",1811,"Saturday, November 21, 2020",79,79.7,14.43,6296.3,1139.97,5156.33
+Asia,India,Clothing,Charlie,OFFLINE,Medium,"Monday, February 10, 2020",1439,"Sunday, June 21, 2020",53,54.73,48.84,2900.69,2588.52,312.17
+Africa,Nigeria,Electronics,Bob,Offline,High,"Saturday, March 28, 2020",1059,"Wednesday, January 8, 2020",79,41.02,37.41,3240.58,2955.39,285.19
+North America,Canada ,Beverages,Eve,Offline,High,"Monday, August 10, 2020",1981,"Tuesday, July 21, 2020",17,22.13,25.86,376.21,439.62,-63.41
+North America,USA,Beverages,Charlie,online,low,"Tuesday, May 12, 2020",1925,"Sunday, July 12, 2020",78,65.71,46.48,5125.38,3625.44,1499.94
+Asia,India,Cosmetics,Alice,OFFLINE,CRITICAL,"Thursday, April 30, 2020",1733,"Sunday, January 12, 2020",78,73.65,23.4,5744.7,1825.2,3919.5
+Africa,Kenya ,Office Supplies,Diana,Offline,High,"Thursday, June 18, 2020",1961,"Monday, May 18, 2020",32,48.56,31.09,1553.92,994.88,559.04
+Europe,Germany,Clothing,Charlie,OFFLINE,High,"Tuesday, June 30, 2020",1480,"Sunday, June 21, 2020",22,43.22,21.66,950.84,476.52,474.32
+South America,Argentina ,Office Supplies,Eve,online,CRITICAL,"Tuesday, February 18, 2020",1666,"Friday, April 24, 2020",33,51.23,6.05,1690.59,199.65,1490.94
+South America,Brazil,Beverages,Charlie,ONLINE,High,"Tuesday, April 21, 2020",1079,"Tuesday, January 28, 2020",88,14.95,22.62,1315.6,1990.56,-674.96
+Europe,Germany,Office Supplies,Charlie,online,High,"Saturday, February 8, 2020",1620,"Saturday, February 22, 2020",56,24.2,32.61,1355.2,1826.16,-470.96
+South America,Brazil,Cosmetics,Charlie,online,low,"Friday, October 30, 2020",,"Tuesday, January 7, 2020",47,57.06,8.39,2681.82,394.33,2287.49
+Africa,Nigeria,Office Supplies,Alice,online,low,"Tuesday, December 15, 2020",1326,"Sunday, July 19, 2020",5,68.82,31.27,344.1,156.35,187.75
+Asia,China,Office Supplies,Alice,online,low,"Wednesday, March 11, 2020",1853,"Monday, March 16, 2020",26,53.81,42.38,1399.06,1101.88,297.18
+North America,Canada ,Beverages,Alice,ONLINE,Medium,"Friday, September 4, 2020",1106,"Monday, October 19, 2020",24,17.9,10.16,429.6,243.84,185.76
+Europe,France ,Beverages,Eve,ONLINE,low,"Monday, February 3, 2020",1762,"Thursday, September 17, 2020",46,78.72,40.77,3621.12,1875.42,1745.7
+South America,Argentina ,Cosmetics,Diana,online,low,"Friday, February 14, 2020",1430,"Saturday, September 5, 2020",50,43.6,14.84,2180,742,1438
+Africa,Nigeria,Clothing,Diana,online,High,"Thursday, September 10, 2020",1807,"Friday, September 25, 2020",3,81.47,34.64,244.41,103.92,140.49
+Asia,China,Cosmetics,Alice,online,low,"Wednesday, May 20, 2020",1680,"Saturday, August 8, 2020",6,48.25,42.94,289.5,257.64,31.86
+Asia,India,Cosmetics,Bob,OFFLINE,High,"Monday, July 27, 2020",1829,"Wednesday, August 26, 2020",23,24.57,39.8,565.11,915.4,-350.29
+South America,Brazil,Cosmetics,Bob,ONLINE,Medium,"Thursday, September 10, 2020",1497,"Sunday, February 9, 2020",77,30.1,30.43,2317.7,2343.11,-25.41
+Asia,China,Office Supplies,Bob,Offline,CRITICAL,"Friday, October 23, 2020",1606,"Sunday, June 7, 2020",74,27.09,7.36,2004.66,544.64,1460.02
+North America,USA,Clothing,Charlie,online,High,"Sunday, June 28, 2020",1998,"Tuesday, March 31, 2020",1,14.85,46.32,14.85,46.32,-31.47
+North America,Canada ,Electronics,Bob,Offline,CRITICAL,"Sunday, September 20, 2020",1169,"Sunday, October 4, 2020",34,99.29,26.14,3375.86,888.76,2487.1
+Europe,Germany,Cosmetics,Eve,Offline,Medium,"Monday, February 24, 2020",1413,"Wednesday, February 19, 2020",80,81.29,17.83,6503.2,1426.4,5076.8
+South America,Argentina ,Beverages,Alice,ONLINE,High,"Monday, February 10, 2020",1929,"Wednesday, December 16, 2020",82,71.07,6.19,5827.74,507.58,5320.16
+,USA,Electronics,Eve,OFFLINE,Medium,"Friday, January 17, 2020",1826,"Monday, January 6, 2020",70,32.52,27.32,2276.4,1912.4,364
+South America,Brazil,Office Supplies,Bob,OFFLINE,Medium,"Tuesday, December 1, 2020",1776,"Monday, July 20, 2020",1,56.31,35.37,56.31,35.37,20.94
+Europe,Germany,Electronics,Diana,OFFLINE,High,"Tuesday, December 8, 2020",1844,"Sunday, March 15, 2020",93,91.44,14.86,8503.92,1381.98,7121.94
+Asia,India,Electronics,Bob,Offline,Medium,"Saturday, December 12, 2020",1612,"Monday, March 23, 2020",71,25.76,6.12,1828.96,434.52,1394.44
+Asia,China,Cosmetics,Diana,ONLINE,Medium,"Wednesday, July 29, 2020",1029,"Friday, April 10, 2020",32,75.27,35.89,2408.64,1148.48,1260.16
+Asia,China,Clothing,Diana,ONLINE,Medium,"Tuesday, March 10, 2020",1659,"Tuesday, July 7, 2020",74,71.04,17.33,5256.96,1282.42,3974.54
+Africa,Kenya ,Beverages,Diana,Offline,High,"Saturday, November 28, 2020",1604,"Tuesday, October 27, 2020",64,21.13,37.53,1352.32,2401.92,-1049.6
+Africa,Nigeria,Cosmetics,Diana,OFFLINE,Medium,"Wednesday, March 18, 2020",1696,"Tuesday, December 15, 2020",58,91.82,46.01,5325.56,2668.58,2656.98
+North America,Canada ,,Alice,ONLINE,low,"Tuesday, November 10, 2020",1671,"Sunday, May 31, 2020",7,14.43,23.73,101.01,166.11,-65.1
+Europe,France ,Electronics,Eve,OFFLINE,CRITICAL,"Sunday, May 3, 2020",1492,"Sunday, January 5, 2020",13,61.82,32.39,803.66,421.07,382.59
+South America,Brazil,Beverages,Diana,online,low,"Sunday, May 31, 2020",1558,"Sunday, February 16, 2020",48,59.15,35.21,2839.2,1690.08,1149.12
+Africa,Kenya ,Clothing,Bob,online,High,"Thursday, May 21, 2020",1295,"Tuesday, June 23, 2020",56,11.74,44.7,657.44,2503.2,-1845.76
+Asia,India,Clothing,Diana,OFFLINE,High,"Wednesday, May 13, 2020",1172,"Thursday, January 9, 2020",8,17.88,22.17,143.04,177.36,-34.32
+South America,Argentina ,Office Supplies,Alice,Offline,low,"Thursday, October 29, 2020",1215,"Monday, February 24, 2020",45,82.52,24.32,3713.4,1094.4,2619
+North America,USA,Beverages,Charlie,OFFLINE,CRITICAL,"Thursday, June 25, 2020",1996,"Saturday, June 6, 2020",15,60.84,34.37,912.6,515.55,397.05
+North America,Canada ,Electronics,Eve,ONLINE,Medium,"Sunday, July 12, 2020",1984,"Sunday, May 31, 2020",37,33.02,17.75,1221.74,656.75,564.99
+North America,USA,Clothing,Charlie,online,low,"Tuesday, November 3, 2020",1961,"Friday, January 31, 2020",45,26.49,26.99,1192.05,1214.55,-22.5
+South America,Brazil,Cosmetics,Charlie,ONLINE,High,"Saturday, February 22, 2020",1846,"Monday, May 18, 2020",17,44.76,47.2,760.92,802.4,-41.48
+Asia,China,Office Supplies,Eve,online,Medium,"Saturday, January 25, 2020",1023,"Saturday, November 7, 2020",81,89.47,32.5,7247.07,2632.5,4614.57
+South America,Brazil,Cosmetics,Charlie,online,low,"Friday, October 30, 2020",,"Tuesday, January 7, 2020",47,57.06,8.39,2681.82,394.33,2287.49
+Africa,Nigeria,Beverages,Eve,online,Medium,"Monday, July 20, 2020",1864,"Wednesday, October 28, 2020",32,97.84,19.37,3130.88,619.84,2511.04
+South America,Argentina ,Beverages,Eve,online,Medium,"Monday, October 12, 2020",1433,"Monday, October 26, 2020",18,22.15,20.21,398.7,363.78,34.92
+North America,Canada ,Clothing,Eve,online,Medium,"Sunday, April 5, 2020",1072,"Friday, December 25, 2020",57,43.92,39,2503.44,2223,280.44
+Asia,China,Clothing,Diana,Offline,High,"Saturday, January 11, 2020",1102,"Wednesday, January 8, 2020",62,29.92,36.88,1855.04,2286.56,-431.52
+South America,Brazil,Cosmetics,Alice,ONLINE,High,"Monday, May 4, 2020",1470,"Saturday, August 8, 2020",78,32.09,38.47,2503.02,3000.66,-497.64
+South America,Argentina ,Beverages,Alice,online,low,"Tuesday, November 17, 2020",1413,"Thursday, July 23, 2020",47,55.52,15.43,2609.44,725.21,1884.23
+Asia,India,Electronics,Diana,online,low,"Thursday, January 23, 2020",,"Thursday, April 30, 2020",52,87.26,30.85,4537.52,1604.2,2933.32
+Asia,China,Office Supplies,Alice,OFFLINE,High,"Saturday, December 5, 2020",1120,"Monday, April 6, 2020",50,39.95,32.52,1997.5,1626,371.5
+Asia,India,Cosmetics,Charlie,ONLINE,Medium,"Saturday, April 4, 2020",1154,"Wednesday, August 26, 2020",14,71.14,24.25,995.96,339.5,656.46
+Europe,Germany,Cosmetics,Alice,ONLINE,low,"Friday, May 1, 2020",1069,"Wednesday, March 4, 2020",89,80.56,14.82,7169.84,1318.98,5850.86
+South America,Brazil,Clothing,Eve,OFFLINE,low,"Friday, May 1, 2020",1527,"Tuesday, September 1, 2020",7,89.56,42.99,626.92,300.93,325.99
+Asia,India,Beverages,Diana,ONLINE,CRITICAL,"Thursday, August 27, 2020",1175,"Saturday, August 22, 2020",36,88.97,30.05,3202.92,1081.8,2121.12
+North America,USA,Cosmetics,Diana,Offline,High,"Saturday, October 31, 2020",1973,"Sunday, May 3, 2020",30,38.62,8.09,1158.6,242.7,915.9
+Europe,Germany,Clothing,Eve,OFFLINE,High,"Tuesday, June 23, 2020",1520,"Thursday, October 29, 2020",55,20.59,44.16,1132.45,2428.8,-1296.35
+Asia,China,Clothing,Diana,OFFLINE,High,"Sunday, December 20, 2020",1138,"Tuesday, January 28, 2020",22,31.37,32.72,690.14,719.84,-29.7
+South America,Brazil,Clothing,Diana,ONLINE,CRITICAL,"Saturday, February 22, 2020",,"Sunday, November 29, 2020",19,92.39,47.54,1755.41,903.26,852.15
+South America,Brazil,Clothing,Alice,Offline,CRITICAL,"Thursday, February 13, 2020",1710,"Thursday, September 17, 2020",13,39.23,22.9,509.99,297.7,212.29
+,Canada ,Beverages,Diana,OFFLINE,High,"Wednesday, January 22, 2020",1451,"Thursday, July 30, 2020",34,33.01,24.58,1122.34,835.72,286.62
+South America,Argentina ,Cosmetics,Eve,ONLINE,low,"Friday, August 7, 2020",1214,"Saturday, September 19, 2020",72,22.1,10.09,1591.2,726.48,864.72
+South America,Brazil,Office Supplies,Bob,ONLINE,low,"Thursday, April 30, 2020",1246,"Saturday, October 31, 2020",55,94.12,27.4,5176.6,1507,3669.6
