@@ -14,7 +14,7 @@ This project focuses on creating interactive Revenue and Profit Dashboards for a
 
 4. Interact with slicers to filter data dynamically.
 
-## Steps to build Revenue and Profit Dashboards for a Global Sales Company 
+## Steps to build the Dashboards
 
 ### 1. Data Injection 
 
